@@ -11,10 +11,10 @@ toc: false
 ---
 <h2>Welcome.</h2>
 
-This is my blog and display of projects.
+We are a team of students involved in AI drone racing (see AlphaPilot 2020 https://www.herox.com/alphapilot/forum).
+This is our project website.
 
-I did a double degree in mechanical and mechatronic engineering and I am self-taught in mobile app development. I am currently studying embedded intelligence in Paris (doing a master's in drones).
+TODO on the Website: https://trello.com/b/y4FRskZr/apfrance-website
 
-The projects on display all have the end-user in mind: whether it be two kitchen appliances, a mobie app for education or two service robots. I tweet about tech news, I blog about my projects and I am seeking funding for my business ventures. Browse for more and feel free to contact me.
 
-[I am currently accepting new projects for the period Jan-Jun 2020](https://thomascarstens.github.io/contact/){: .btn .btn--success}
+[Please fund us!](https://thomascarstens.github.io/contact/){: .btn .btn--success}

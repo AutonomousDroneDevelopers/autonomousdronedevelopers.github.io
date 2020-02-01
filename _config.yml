@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" #default" # "air", "aqua", "contrast", "da
 logo                     : "/assets/images/favicon.jpg" #logo: "/assets/images/88x88.png"
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Carstens"
+title                    : "AlphaPilotFrance"
 #masthead_title           : "Thomas"
 title_separator          : "&#124;"
-name                     : &name "Thomas Carstens"
+name                     : &name "AlphaPilotFrance"
 description              : &description "My blog_portfolio_business_cv" #> # this means to ignore newlines until "baseurl:"
 url                      : https://AlphaPilotFrance.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/profilepicture.jpg"
-  bio              : "Interested in embedded intelligence"
+  bio              : "AI Drone Racing"
   location         : #"Based in Paris"
   email            : #"thomaxarstens@gmail.com"
   uri              : #"https://thomascarstens.github.io"
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ThomasCarstens"
+  github           : "AlphaPilotFrance"
 #  gitlab           : "ThomasCarstens"
 #  google_plus      :
 #  googlescholar    : "7YzW4ZUAAAAJ&hl=en"
 #  keybase          :
   instagram        : # thomas_carstens
 #  lastfm           :
-  linkedin         : "thomas-carstens-31632468"
+#  linkedin         : "thomas-carstens-31632468"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "thomaxarstens"
+# twitter          : "thomaxarstens"
   vine             :
   weibo            :
   xing             :

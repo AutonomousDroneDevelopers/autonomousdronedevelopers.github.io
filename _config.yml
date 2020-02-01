@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/assets/images/aidrone.jpg"
+  avatar           : "/assets/images/favicon.jpg"
   bio              : "AI Drone Racing"
   location         : #"Based in Paris"
   email            : #"thomaxarstens@gmail.com"

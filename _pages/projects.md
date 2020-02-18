@@ -13,4 +13,4 @@ last_modified_at: 2018-01-10T11:22:24-05:00
 
 # My recent twitter activity
 
-<a class="twitter-timeline" href="https://twitter.com/thomaxarstens" data-tweet-limit="3">Loading my latest 3 tweets...</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/thomaxarstens" data-tweet-limit="3">Loading my latest 300 tweets...</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

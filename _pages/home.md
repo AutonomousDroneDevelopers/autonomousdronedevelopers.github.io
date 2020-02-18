@@ -14,7 +14,7 @@ toc: false
 We are a team of students involved in AI drone racing (see AlphaPilot 2020 https://www.herox.com/alphapilot/forum).
 This is our project website.
 
-TODO on the Website: https://trello.com/b/y4FRskZr/apfrance-website
+TODO is on the Website: https://trello.com/b/y4FRskZr/apfrance-website
 
 
 [Please fund us!](https://thomascarstens.github.io/contact/){: .btn .btn--success}

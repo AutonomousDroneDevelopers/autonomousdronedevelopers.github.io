@@ -75,7 +75,7 @@ caption="The wire is in contact with a base plate."
 %}
 
 ## Summary
-These braai tongs were designed to be ergonomic and durable - but also very fancy ones, with LED illumination and detachable extensions for cleaning and storing.
+These braai tongs are designed to be ergonomic and durable - but also very fancy ones, with LED illumination and detachable extensions for cleaning and storing.
 
 ## Assembly drawing
 {%

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_posts"
+    "\\docs\\_data\\comments",
+    "\\_data\\comments\\layout-comments",
+    "\\_includes\\head"
   ],
-  "SelectedNode": "\\_posts\\2017-12-02-braai-tongs.md",
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }

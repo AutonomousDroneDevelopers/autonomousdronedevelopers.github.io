@@ -9,6 +9,22 @@ header:
 last_modified_at: 2019-06-11T11:22:24-05:00
 toc: false
 ---
+<ul>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 <h2>Welcome.</h2>
 
 We are a team of students working on AI drone racing (see AlphaPilot 2020 https://www.herox.com/alphapilot/forum).

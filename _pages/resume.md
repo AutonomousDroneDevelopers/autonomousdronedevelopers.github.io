@@ -11,4 +11,4 @@ header:
   overlay_image: /assets/images/backgrounds/university-avenue.png
   overlay_filter: rgba(0, 0, 0, 0.25)
 ---
-# Click on a skill to see the projects where I used this skill.
+# List of tutorials

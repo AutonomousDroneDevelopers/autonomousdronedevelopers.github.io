@@ -11,10 +11,13 @@ toc: false
 ---
 <h2>Welcome.</h2>
 
-We are a team of students working on AI drone racing (see AlphaPilot 2020 https://www.herox.com/alphapilot/forum).
-This is our project website.
+We are an innovation laboratory in Paris.
+We enjoy developing drones and robotic systems that move autonomously.
+Contact us at autonomousdrones@gmail.com and we will be in touch with you shortly.
 
-TODO is on the Website: https://trello.com/b/y4FRskZr/apfrance-website
+<h2>PERKS OF OUR FRAMEWORK.</h2>
 
+<h3>Simulated behaviour <em> portable to real drone </em> </h3>
 
-[Please fund us!](https://thomascarstens.github.io/contact/){: .btn .btn--success}
+TO BE COMPLETED
+.---

@@ -10,8 +10,8 @@ main:
   #  url: /myblog/
   - title: "Tutorials"
     url: /cv/
-  #- title: "Skills"
-  #  url: /skills/
+  - title: "Technologies"
+    url: /skills/
   - title: "Join"
     url: /projects/
   #- title: "Privacy Policy"

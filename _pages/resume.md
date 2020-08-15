@@ -1,6 +1,7 @@
 ---
 layout: collection
 entries_layout: grid
+collection: portfolio
 title: "Tutorials"
 breadcrumbs: true
 permalink: /cv/

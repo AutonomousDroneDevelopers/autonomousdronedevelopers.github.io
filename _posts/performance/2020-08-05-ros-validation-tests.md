@@ -1,18 +1,18 @@
 ---
 layout: single
-title: "Drone Bot Design"
-excerpt: "Designing drone bots for adverserial drone development."
+title: "ROS Validation Tests"
+excerpt: "How to create validation tests with simulator before developer merges changes."
 image:
   header: assets/images/posts/service-robot/robot-header.png
   teaser: assets/images/posts/service-robot/robot-header.png
 header:
   teaser: assets/images/posts/service-robot/robot-header.png
   overlay_image: /assets/images/posts/service-robot/robot-header.png
-categories: Algorithms
+categories: Performance
 tags:
-- Simulation
-- Robot
-- Autonomous system
+- Simulator
+- Collaboration
+- ROS
 
 toc: true
 toc_sticky: true
@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Service Robot
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} ROS Validation Tests

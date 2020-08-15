@@ -12,13 +12,13 @@ toc: false
 <h2>Welcome.</h2>
 
 We are an innovation laboratory in Paris.
-We enjoy developing drones and robotic systems that move autonomously.
+We enjoy developing drones and robotic systems that make decisions autonomously.
 Contact us at autonomousdrones@gmail.com and we will be in touch with you shortly.
 
 <h2>PERKS OF OUR FRAMEWORK.</h2>
 
-
 # Simulated behaviour <em> portable to real drone </em>
+# hhi
 Any behaviour can be replicated.
 
 # All robots can benefit from this system.
@@ -29,5 +29,5 @@ Training grounds.
 
 ## Drone can share endless realities
 
-TO BE COMPLETED
+### TO BE COMPLETED
 .---

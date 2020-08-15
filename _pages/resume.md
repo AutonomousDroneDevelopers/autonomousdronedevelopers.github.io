@@ -1,6 +1,7 @@
 ---
-layout: tags
-title: "Skill-based portfolio"
+layout: collection
+entries_layout: grid
+title: "Tutorials"
 breadcrumbs: true
 permalink: /cv/
 share: true
@@ -12,3 +13,10 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.25)
 ---
 # List of tutorials
+---
+title: Portfolio
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+---

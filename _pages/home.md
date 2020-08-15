@@ -17,7 +17,12 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 <h2>PERKS OF OUR FRAMEWORK.</h2>
 
-<h3>Simulated behaviour <em> portable to real drone </em> </h3>
+
+# Simulated behaviour <em> portable to real drone </em>
+# All robots can benefit from this system.
+
+## Drone-to-drone combat
+## Drone can share endless realities
 
 TO BE COMPLETED
 .---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Linux and ROS Basics"
+title: "Linux and ROS Background"
 excerpt: "An overview of skills to become a better drone developer."
 image:
   header: assets/images/posts/service-robot/robot-header.png

@@ -3,11 +3,11 @@ layout: single
 title: "Robot Behaviour Planning"
 excerpt: "Developing robot behaviours with an event-based planner."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/algorithmic/behaviour-planner-1.png
+  teaser: assets/images/algorithmic/behaviour-planner-1.png
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/algorithmic/behaviour-planner-1.png
+  overlay_image: assets/images/algorithmic/behaviour-planner-1.png
 categories: Algorithms
 tags:
 - Simulation

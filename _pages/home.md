@@ -19,9 +19,14 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 
 # Simulated behaviour <em> portable to real drone </em>
+Any behaviour can be replicated.
+
 # All robots can benefit from this system.
+Any robot can use the motion capture setup.
 
 ## Drone-to-drone combat
+Training grounds.
+
 ## Drone can share endless realities
 
 TO BE COMPLETED

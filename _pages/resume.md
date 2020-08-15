@@ -1,10 +1,11 @@
 ---
 title: "Tutorials"
 layout: collection
-entries_layout: grid
-collection: portfolio
-#breadcrumbs: true
 permalink: /cv/
+collection: portfolio
+entries_layout: grid
+#breadcrumbs: true
+
 #share: true
 #comments: false
 #classes: wide
@@ -14,10 +15,9 @@ permalink: /cv/
   overlay_filter: rgba(0, 0, 0, 0.25)
 ---
 # List of tutorials
----
+
 title: Portfolio
 layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
----

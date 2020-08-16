@@ -3,11 +3,11 @@ layout: single
 title: "Optitrack Motion Capture (/3)"
 excerpt: "From first use to extended captures with Optitrack."
 image:
-  header: assets/images/infrastructure/optitrack.PNG
-  teaser: assets/images/infrastructure/optitrack.PNG
+  header: /assets/images/infrastructure/optitrack.PNG
+  teaser: /assets/images/infrastructure/optitrack.PNG
 header:
-  teaser: assets/images/infrastructure/optitrack.PNG
-  overlay_image: assets/images/infrastructure/optitrack.PNG
+  teaser: /assets/images/infrastructure/optitrack.PNG
+  overlay_image: /assets/images/infrastructure/optitrack.PNG
 categories: Infrastructure
 tags:
 - Hardware

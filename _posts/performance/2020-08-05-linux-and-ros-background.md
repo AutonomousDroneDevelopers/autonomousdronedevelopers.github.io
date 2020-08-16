@@ -3,11 +3,11 @@ layout: single
 title: "Linux and ROS Background"
 excerpt: "An overview of skills to become a better drone developer."
 image:
-  header: assets/images/infrastructure/dev-stack.PNG
-  teaser: assets/images/infrastructure/dev-stack.PNG
+  header: assets/images/infrastructure/drone-dev.jpg
+  teaser: assets/images/infrastructure/drone-dev.jpg
 header:
-  teaser: assets/images/infrastructure/dev-stack.PNG
-  overlay_image: assets/images/infrastructure/dev-stack.PNG
+  teaser: assets/images/infrastructure/drone-dev.jpg
+  overlay_image: assets/images/infrastructure/drone-dev.jpg
 categories: Performance
 tags:
 - Troubleshooting

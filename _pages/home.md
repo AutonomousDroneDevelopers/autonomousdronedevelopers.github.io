@@ -17,8 +17,8 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 <h2>PERKS OF OUR FRAMEWORK.</h2>
 
-| Simulated behaviour <em> portable to real drone </em> |
-| hhi |
+| Simulated behaviour <em> portable to real drone </em>
+| hhi
 
 Any behaviour can be replicated.
 

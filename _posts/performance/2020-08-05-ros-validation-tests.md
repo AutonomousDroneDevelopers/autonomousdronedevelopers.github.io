@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ROS Validation Tests"
+title: "Gazebo-ROS Validation Tests"
 excerpt: "How to create validation tests with simulator before developer merges changes."
 image:
   header: assets/images/performance/gazebo-github.PNG

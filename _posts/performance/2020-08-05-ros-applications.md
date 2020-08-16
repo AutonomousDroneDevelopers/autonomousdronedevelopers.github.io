@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A primer on creating applications with ROS"
+title: "Creating applications with ROS"
 excerpt: "How to set up the ROS Action Server for various demo applications."
 image:
   header: /assets/images/infrastructure/button.jpg

@@ -7,7 +7,7 @@ entries_layout: grid
 breadcrumbs: true
 #share: true
 #comments: false
-#classes: wide
+classes: wide
 #document_path: /assets/docs/Thomas_Carstens_webCV_11june.pdf
 #header:
 #  overlay_image: /assets/images/backgrounds/university-avenue.png

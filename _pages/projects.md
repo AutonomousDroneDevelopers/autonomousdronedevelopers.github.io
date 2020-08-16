@@ -10,5 +10,9 @@ header:
 last_modified_at: 2018-01-10T11:22:24-05:00
 
 ---
-
-
+{%
+include figure
+image_path="assets/images/infrastructure/equipment-background.PNG"
+alt="pokemon-idea"
+caption="Some ideas of projects"
+%}

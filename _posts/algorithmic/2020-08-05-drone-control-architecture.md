@@ -3,11 +3,11 @@ layout: single
 title: "Drone Control Architecture (/3)"
 excerpt: "Developing a control architecture for drones."
 image:
-  header: assets/images/algorithmic/drone-control.gif
-  teaser: assets/images/algorithmic/drone-control.gif
+  header: assets/images/algorithmic/drone-control.jpg
+  teaser: assets/images/algorithmic/drone-control.jpg
 header:
-  teaser:  assets/images/algorithmic/drone-control.gif
-  overlay_image:  assets/images/algorithmic/drone-control.gif
+  teaser:  assets/images/algorithmic/drone-control.jpg
+  overlay_image:  assets/images/algorithmic/drone-control.jpg
 categories: Algorithms
 tags:
 - Simulation

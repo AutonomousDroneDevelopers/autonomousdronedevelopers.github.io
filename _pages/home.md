@@ -17,11 +17,12 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 <h2>PERKS OF OUR FRAMEWORK.</h2>
 
-# Simulated behaviour <em> portable to real drone </em>
-# hhi
+| Simulated behaviour <em> portable to real drone </em> |
+| hhi |
+
 Any behaviour can be replicated.
 
-# All robots can benefit from this system.
+| All robots can benefit from this system. |
 Any robot can use the motion capture setup.
 
 ## Drone-to-drone combat

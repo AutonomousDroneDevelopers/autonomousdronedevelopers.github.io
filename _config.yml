@@ -88,7 +88,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/drone-agents.jpg"
-  bio              : "AI Drone Racing"
+  bio              : "AI Drones"
   location         : #"Based in Paris"
   email            : #"thomaxarstens@gmail.com"
   uri              : #"https://thomascarstens.github.io"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AlphaPilotFrance"
+  github           : "ThomasCarstens"
 #  gitlab           : "ThomasCarstens"
 #  google_plus      :
 #  googlescholar    : "7YzW4ZUAAAAJ&hl=en"

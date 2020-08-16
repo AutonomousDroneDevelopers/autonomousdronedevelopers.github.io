@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Flying the Crazyflie (/3)"
+title: "Experiences with the Snapdragon Flight Pro"
 excerpt: "Information about this drone and its framework."
 image:
-  header: assets/images/infrastructure/crazyflie.jpg
-  teaser: assets/images/infrastructure/crazyflie.jpg
+  header: assets/images/infrastructure/snapdragon-parts1.jpg
+  teaser: assets/images/infrastructure/snapdragon-parts1.jpg
 header:
-  teaser: assets/images/infrastructure/crazyflie.jpg
-  overlay_image: assets/images/infrastructure/crazyflie.jpg
+  teaser: assets/images/infrastructure/snapdragon-parts1.jpg
+  overlay_image: assets/images/infrastructure/snapdragon-parts1.jpg
 categories: Infrastructure
 tags:
 - Hardware
@@ -32,4 +32,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Flying the Crazyflie
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Experiences with the Snapdragon Flight Pro

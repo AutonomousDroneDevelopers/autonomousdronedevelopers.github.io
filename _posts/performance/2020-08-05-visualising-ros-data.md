@@ -1,17 +1,17 @@
 ---
 layout: single
-title: "Remapping real drone into simulators (/3)"
-excerpt: "How to transfer inputs and outputs between a real drone and simulators."
+title: "Visualising ROS Data (/3)"
+excerpt: "Data manipulation of ROS using Jupyter Notebook."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/performance/gazebo-jupyter.PNG
+  teaser: assets/images/performance/gazebo-jupyter.PNG
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/performance/gazebo-jupyter.PNG
+  overlay_image: assets/images/performance/gazebo-jupyter.PNG
 categories: Infrastructure
 tags:
-- Simulator
-- Crossreality
+- Data manipulation
+- Jupyter
 - ROS
 
 toc: true

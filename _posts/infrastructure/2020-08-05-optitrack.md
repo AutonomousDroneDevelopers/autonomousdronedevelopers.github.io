@@ -3,11 +3,11 @@ layout: single
 title: "Optitrack Motion Capture (/3)"
 excerpt: "From first use to extended captures with Optitrack."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/infrastructure/optitrack.png
+  teaser: assets/images/infrastructure/optitrack.png
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/infrastructure/optitrack.png
+  overlay_image: assets/images/infrastructure/optitrack.png
 categories: Infrastructure
 tags:
 - Hardware

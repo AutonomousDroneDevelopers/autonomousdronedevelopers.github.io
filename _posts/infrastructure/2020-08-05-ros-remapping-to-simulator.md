@@ -3,11 +3,11 @@ layout: single
 title: "Remapping real drone into simulators (/3)"
 excerpt: "How to transfer inputs and outputs between a real drone and simulators."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/infrastructure/flightgoggles.jpg
+  teaser: assets/images/infrastructure/flightgoggles.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/infrastructure/flightgoggles.jpg
+  overlay_image: assets/images/infrastructure/flightgoggles.jpg
 categories: Infrastructure
 tags:
 - Simulator

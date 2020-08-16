@@ -3,11 +3,11 @@ layout: single
 title: "Drone Bot Design"
 excerpt: "Designing drone and wheeled bots for adverserial drone development."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/algorithmic/drone-bot.jpg
+  teaser: assets/images/algorithmic/drone-bot.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/algorithmic/drone-bot.jpg
+  overlay_image: assets/images/algorithmic/drone-bot.jpg
 categories: Algorithms
 tags:
 - Simulation

@@ -3,11 +3,11 @@ layout: single
 title: "Accessing the Simulator GPU remotely"
 excerpt: "How to make use of the Simulator GPU from your own PC."
 image:
-  header: assets/images/Infrastructure/gpu-tut.PNG
-  teaser: assets/images/Infrastructure/gpu-tut.PNG
+  header: assets/images/infrastructure/gpu-tut.jpg
+  teaser: assets/images/infrastructure/gpu-tut.jpg
 header:
-  teaser: assets/images/Infrastructure/gpu-tut.PNG
-  overlay_image: assets/images/Infrastructure/gpu-tut.PNG
+  teaser: assets/images/infrastructure/gpu-tut.jpg
+  overlay_image: assets/images/infrastructure/gpu-tut.jpg
 categories: Infrastructure
 tags:
 - Simulator

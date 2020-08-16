@@ -3,11 +3,11 @@ layout: single
 title: "Flying the Crazyflie (/3)"
 excerpt: "Information about this drone and its framework."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/infrastructure/crazyflie.jpg
+  teaser: assets/images/infrastructure/crazyflie.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/infrastructure/crazyflie.jpg
+  overlay_image: assets/images/infrastructure/crazyflie.jpg
 categories: Infrastructure
 tags:
 - Hardware

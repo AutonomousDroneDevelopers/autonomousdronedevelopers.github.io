@@ -3,11 +3,11 @@ layout: single
 title: "Drone Guards and other flight tips"
 excerpt: "Information about this drone and its framework."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/infrastructure/guards-4.jpg
+  teaser: assets/images/infrastructure/guards-4.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/infrastructure/guards-4.jpg
+  overlay_image: assets/images/infrastructure/guards-4.jpg
 categories: Infrastructure
 tags:
 - Hardware

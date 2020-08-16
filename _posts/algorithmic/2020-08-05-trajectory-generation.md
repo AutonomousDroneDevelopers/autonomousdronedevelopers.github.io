@@ -3,11 +3,11 @@ layout: single
 title: "Trajectory Generation (/3)"
 excerpt: "Developing trajectories for robots to follow."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header:  assets/images/algorithmic/trajectory-generation.png
+  teaser: assets/images/algorithmic/trajectory-generation.png
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/algorithmic/trajectory-generation.png
+  overlay_image: assets/images/algorithmic/trajectory-generation.png
 categories: Algorithms
 tags:
 - Simulation

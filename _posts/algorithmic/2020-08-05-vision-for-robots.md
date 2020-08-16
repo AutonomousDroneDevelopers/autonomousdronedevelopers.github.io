@@ -3,11 +3,11 @@ layout: single
 title: "A primer on computer vision for robots"
 excerpt: "Developing robot behaviours with an event-based planner."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/algorithmic/computer-vision.jpeg
+  teaser: assets/images/algorithmic/computer-vision.jpeg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/algorithmic/computer-vision.jpeg
+  overlay_image: assets/images/algorithmic/computer-vision.jpeg
 categories: Algorithms
 tags:
 - Simulation

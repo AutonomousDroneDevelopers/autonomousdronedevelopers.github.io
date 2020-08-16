@@ -19,7 +19,7 @@ toc_sticky: true
 date: 2019-01-12
 
 gallery:
-  - image_path: /assets/images/posts/service-robot/h-bridge.png
+  - image_path: assets/images/algorithmic/behaviour-planner-2.PNG
     alt: "Custom h-bridge"
     title: "Custom h-bridge"
 
@@ -34,3 +34,13 @@ gallery:
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Robot Behaviour Planning
+
+{%
+include figure
+image_path="assets/images/algorithmic/behaviour-planner-2.PNG"
+alt="behaviour-planner-2"
+caption="behaviour-planner-2"
+%}
+
+
+{% include gallery caption="Custom electronics: h-bridges (2), line sensors (8), voltage regulator (1), custom-made for cost." %}

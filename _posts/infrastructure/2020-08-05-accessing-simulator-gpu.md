@@ -3,11 +3,11 @@ layout: single
 title: "Accessing the Simulator GPU remotely"
 excerpt: "How to make use of the Simulator GPU from your own PC."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/Infrastructure/gpu-tut.PNG
+  teaser: assets/images/Infrastructure/gpu-tut.PNG
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/Infrastructure/gpu-tut.PNG
+  overlay_image: assets/images/Infrastructure/gpu-tut.PNG
 categories: Infrastructure
 tags:
 - Simulator

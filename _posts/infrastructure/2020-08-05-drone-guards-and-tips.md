@@ -18,18 +18,24 @@ toc_sticky: true
 date: 2019-01-12
 
 gallery:
-  - image_path: /assets/images/posts/service-robot/h-bridge.png
-    alt: "Custom h-bridge"
-    title: "Custom h-bridge"
+  - image_path: /assets/images/infrastructure/guards.png
+    alt: "fpv drone"
+    title: "fpv drone"
 
-  - image_path: /assets/images/posts/service-robot/line-sensors.png
+  - image_path: /assets/images/infrastructure/guards-2.jpg
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - image_path: /assets/images/posts/service-robot/voltage-regulator.png
+  - image_path: /assets/images/infrastructure/guards-3.jpg
+    alt: "Custom voltage regulator"
+    title: "Custom voltage regulator"
+
+  - image_path: /assets/images/infrastructure/guards-4.jpg
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Drone Guards and other flight tips
+
+{% include gallery caption="The best ideas for drone guards." %}

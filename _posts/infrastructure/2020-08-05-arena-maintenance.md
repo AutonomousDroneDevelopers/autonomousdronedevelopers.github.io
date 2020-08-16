@@ -3,11 +3,11 @@ layout: single
 title: "Arena Maintenance"
 excerpt: "Tips for usage and caretaking of the drone arena."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: /assets/images/infrastructure/arena.jpeg
+  teaser: /assets/images/infrastructure/arena.jpeg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: /assets/images/infrastructure/arena.jpeg
+  overlay_image: /assets/images/infrastructure/arena.jpeg
 categories: Infrastructure
 tags:
 - Hardware

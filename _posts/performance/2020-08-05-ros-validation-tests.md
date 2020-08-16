@@ -3,11 +3,11 @@ layout: single
 title: "ROS Validation Tests"
 excerpt: "How to create validation tests with simulator before developer merges changes."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/performance/gazebo-github.PNG
+  teaser: assets/images/performance/gazebo-github.PNG
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/performance/gazebo-github.PNG
+  overlay_image: assets/images/performance/gazebo-github.PNG
 categories: Performance
 tags:
 - Simulator

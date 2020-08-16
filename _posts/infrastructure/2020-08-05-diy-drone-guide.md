@@ -3,11 +3,11 @@ layout: single
 title: "DIY Drone Guide (/3)"
 excerpt: "Research overview into drone equipment."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: assets/images/infrastructure/fpv-drone.jpg
+  teaser: assets/images/infrastructure/fpv-drone.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: assets/images/infrastructure/fpv-drone.jpg
+  overlay_image: assets/images/infrastructure/fpv-drone.jpg
 categories: Infrastructure
 tags:
 - Hardware

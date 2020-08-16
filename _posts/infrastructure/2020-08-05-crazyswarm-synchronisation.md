@@ -3,11 +3,11 @@ layout: single
 title: "Crazyswarm framework for synchronised flight"
 excerpt: "Getting up and started with drone swarms."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: /assets/images/infrastructure/crazyswarm.jpg
+  teaser: /assets/images/infrastructure/crazyswarm.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: /assets/images/infrastructure/crazyswarm.jpg
+  overlay_image: /assets/images/infrastructure/crazyswarm.jpg
 categories: Infrastructure
 tags:
 - Hardware

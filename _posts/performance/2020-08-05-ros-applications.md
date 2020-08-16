@@ -3,16 +3,16 @@ layout: single
 title: "A primer on creating applications with ROS"
 excerpt: "How to set up the ROS Action Server for various demo applications."
 image:
-  header: assets/images/posts/service-robot/robot-header.png
-  teaser: assets/images/posts/service-robot/robot-header.png
+  header: /assets/images/infrastructure/button.jpg
+  teaser: /assets/images/infrastructure/button.jpg
 header:
-  teaser: assets/images/posts/service-robot/robot-header.png
-  overlay_image: /assets/images/posts/service-robot/robot-header.png
+  teaser: /assets/images/infrastructure/button.jpg
+  overlay_image: /assets/images/infrastructure/button.jpg
 categories: Performance
 tags:
 - Data Networking
 - ROS
-- Neat Demoes 
+- Neat Demoes
 
 toc: true
 toc_sticky: true

@@ -3,11 +3,11 @@ layout: single
 title: "Visualising ROS Data (/3)"
 excerpt: "Data manipulation of ROS using Jupyter Notebook."
 image:
-  header: assets/images/performance/gazebo-jupyter.PNG
-  teaser: assets/images/performance/gazebo-jupyter.PNG
+  header: assets/images/performance/gazebo-github.PNG
+  teaser: assets/images/performance/gazebo-github.PNG
 header:
-  teaser: assets/images/performance/gazebo-jupyter.PNG
-  overlay_image: assets/images/performance/gazebo-jupyter.PNG
+  teaser: assets/images/performance/gazebo-github.PNG
+  overlay_image: assets/images/performance/gazebo-github.PNG
 categories: Infrastructure
 tags:
 - Data manipulation

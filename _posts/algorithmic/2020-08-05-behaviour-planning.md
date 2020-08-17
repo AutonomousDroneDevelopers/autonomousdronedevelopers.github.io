@@ -35,12 +35,11 @@ gallery:
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Robot Behaviour Planning
 
+{% include gallery caption="Custom electronics: h-bridges (2), line sensors (8), voltage regulator (1), custom-made for cost." %}
+
 {%
 include figure
 image_path="assets/images/algorithmic/behaviour-planner-2.PNG"
 alt="behaviour-planner-2"
 caption="behaviour-planner-2"
 %}
-
-
-{% include gallery caption="Custom electronics: h-bridges (2), line sensors (8), voltage regulator (1), custom-made for cost." %}

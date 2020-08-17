@@ -6,7 +6,7 @@ image:
   header: /assets/images/infrastructure/crazyswarm.jpg
   teaser: /assets/images/infrastructure/crazyswarm.jpg
 header:
-  teaser: /assets/images/infrastructure/crazyswarm.jpg
+  teaser: /assets/images/infrastructure/crazyswarm-shortage.PNG
   overlay_image: /assets/images/infrastructure/crazyswarm.jpg
 categories: Infrastructure
 tags:

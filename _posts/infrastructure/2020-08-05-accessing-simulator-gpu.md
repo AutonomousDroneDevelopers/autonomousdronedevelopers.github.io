@@ -7,7 +7,7 @@ image:
   teaser: assets/images/infrastructure/gpu-tut.jpg
 header:
   teaser: assets/images/infrastructure/gpu-tut.jpg
-  overlay_image: assets/images/performance/jupyter.svg
+  overlay_image: assets/images/infrastructure/gpu-tut.jpg
 categories: Infrastructure
 tags:
 - Simulator

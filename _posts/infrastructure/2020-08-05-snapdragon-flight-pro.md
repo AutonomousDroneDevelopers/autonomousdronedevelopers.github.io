@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Experiences with the Snapdragon Flight Pro"
+title: "Flying the Snapdragon Flight Pro"
 excerpt: "Information about this drone and its framework."
 image:
   header: assets/images/infrastructure/snapdragon-parts1.jpg

@@ -15,6 +15,14 @@ We are an innovation laboratory in Paris.
 We enjoy developing _drones_ and **robotic** systems that make decisions autonomously.
 Contact us at autonomousdrones@gmail.com and we will be in touch with you shortly.
 
+{%
+include figure
+image_path="assets/images/background/for-developers.PNG"
+alt="dev-tutorials"
+caption=" "
+%}
+
+
 <h2>PERKS OF OUR FRAMEWORK.</h2>
 
  Simulated behaviour __portable to real drone__  |

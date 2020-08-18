@@ -17,25 +17,28 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 {%
 include figure
-image_path="assets/images/backgrounds/for-developers.PNG"
+image_path="assets/images/backgrounds/common-stack.PNG"
 alt="dev-tutorials"
 caption=" "
 %}
 
+{%
+include figure
+image_path="assets/images/backgrounds/equipment.PNG"
+alt="dev-tutorials"
+caption=" "
+%}
 
-<h2>PERKS OF OUR FRAMEWORK.</h2>
+{%
+include figure
+image_path="assets/images/backgrounds/v2r.PNG"
+alt="dev-tutorials"
+caption=" "
+%}
 
- Simulated behaviour __portable to real drone__  |
- Drone-to-drone combat simulator |
-
- and
-
- Drone can share endless realities | Extending to other robots
- **Drone swarm** at your command. | Developing human-machine interaction
-
-
-
-| All robots can benefit from this system. |
-Any robot can use the motion capture setup.
-
-.---
+{%
+include figure
+image_path="assets/images/backgrounds/projects.PNG"
+alt="dev-tutorials"
+caption=" "
+%}

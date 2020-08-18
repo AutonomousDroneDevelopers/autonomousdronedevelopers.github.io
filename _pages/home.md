@@ -17,7 +17,7 @@ Contact us at autonomousdrones@gmail.com and we will be in touch with you shortl
 
 {%
 include figure
-image_path="assets/images/background/for-developers.PNG"
+image_path="assets/images/backgrounds/for-developers.PNG"
 alt="dev-tutorials"
 caption=" "
 %}

@@ -30,13 +30,11 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
-document_path: ../../assets/docs/CV_Werner_web.pdf 
+document_path: ../../assets/docs/crazyflie_specimen.pdf
 
 
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Flying the Crazyflie
 
-This is my current CV <a download href="{{ page.document_path }}">[pdf]</a>.
-<br>
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

@@ -30,12 +30,11 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
+document_path: ../../assets/docs/crazyswarm_overview.pdf
+
+
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyswarm framework for synchronised flight
 
-This tutorial is meant to cover trajectory following for bots on Unity3D at a basic level. The user will be able to input any kind of bot model and use C# to setup a custom trajectory as well as the necessary control code on the bot to follow this trajectory.
-
-This tutorial is meant as a taster of bot design. It is achievable in under an hour and I invite you to go beyond and design more complex bot behaviours.
-
-This tutorial is developed with advanced videogame developers in mind. A couple of independent videogame developers have reached out to develop drone behaviours within Unity3D, and this tutorial is somewhat a primer for trajectory generation and following.
+<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

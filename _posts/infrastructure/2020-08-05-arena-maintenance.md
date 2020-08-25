@@ -31,6 +31,11 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
+document_path: ../../assets/docs/arena_layout.pdf
+
+
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Arena Maintenance
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyswarm framework for synchronised flight
+
+<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

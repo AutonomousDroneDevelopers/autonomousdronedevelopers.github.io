@@ -45,5 +45,9 @@ caption=" "
 
 https://trello.com/b/Jfb8EjCc/stage-dvic
 
+<br>
+<iframe src="https://youtu.be/g72GeBA-ky8" width="560" height="315" frameborder="0"> </iframe>
+</br>
+
 
 Contact us at autonomousdrones@gmail.com and we will be in touch with you shortly.

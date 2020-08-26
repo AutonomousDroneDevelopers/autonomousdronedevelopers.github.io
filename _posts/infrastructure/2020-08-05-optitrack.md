@@ -30,7 +30,7 @@ gallery:
   - image_path: /assets/images/posts/service-robot/voltage-regulator.png
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
-document_path: ../../assets/docs/pid_introduction.pdf
+document_path: ../../assets/docs/optitrack_intro.pdf
 
 ---
 

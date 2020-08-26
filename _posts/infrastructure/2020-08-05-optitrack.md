@@ -30,7 +30,10 @@ gallery:
   - image_path: /assets/images/posts/service-robot/voltage-regulator.png
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
+document_path: ../../assets/docs/pid_introduction.pdf
 
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Optitrack Motion Capture
+
+<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

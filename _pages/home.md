@@ -15,6 +15,8 @@ We are an innovation laboratory in Paris.
 
 We enjoy developing _drones_ and **robotic** systems that make decisions autonomously.
 
+<iframe width="727" height="409" src="https://www.youtube.com/embed/g72GeBA-ky8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {%
 include figure
 image_path="assets/images/backgrounds/common-stack.PNG"
@@ -44,10 +46,6 @@ caption=" "
 %}
 
 https://trello.com/b/Jfb8EjCc/stage-dvic
-
-<br>
-<iframe src="https://youtu.be/g72GeBA-ky8" width="560" height="315" frameborder="0"> </iframe>
-</br>
 
 
 Contact us at autonomousdrones@gmail.com and we will be in touch with you shortly.

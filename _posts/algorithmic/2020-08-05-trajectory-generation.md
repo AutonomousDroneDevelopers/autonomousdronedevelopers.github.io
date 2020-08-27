@@ -31,6 +31,10 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
+document_path: ../../assets/docs/trajectory_introduction.pdf
+
 ---
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Trajectory Generation
+
+<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

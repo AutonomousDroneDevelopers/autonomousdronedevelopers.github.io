@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: collection
-permalink: /portfolio/
+permalink: /projects/
 collection: projects
 entries_layout: grid
 header:

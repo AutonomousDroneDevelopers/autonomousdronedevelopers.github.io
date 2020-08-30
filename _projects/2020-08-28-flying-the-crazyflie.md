@@ -29,10 +29,11 @@ gallery:
   - image_path: /assets/images/posts/service-robot/voltage-regulator.png
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
-document_path: ../../assets/docs/technical_botdrivestowaypoint.pdf
+document_path: ../../assets/docs/technical_single-crazyflie.pdf
+
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Gazebo-ROS Obstacle Approach
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Flying the Crazyflie
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

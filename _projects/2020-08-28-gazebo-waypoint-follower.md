@@ -3,11 +3,11 @@ layout: single
 title: "Gazebo-ROS Obstacle Approach"
 excerpt: "Project: coding bot behaviours within the Gazebo simulator based on what the bot observes."
 image:
-  header: assets/images/infrastructure/snapdragon-parts1.jpg
-  teaser: assets/images/infrastructure/snapdragon-parts1.jpg
+  header: assets/images/projects/gazebo-ros.png
+  teaser: assets/images/projects/gazebo-ros.png
 header:
-  teaser: assets/images/infrastructure/snapdragon-parts1.jpg
-  overlay_image: assets/images/infrastructure/snapdragon-parts1.jpg
+  teaser: assets/images/projects/gazebo-ros.png
+  overlay_image: assets/images/projects/gazebo-ros.png
 categories: Infrastructure
 tags:
 - Hardware

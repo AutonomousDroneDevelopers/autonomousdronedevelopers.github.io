@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Flying the Crazyflie (/3)"
+title: "Crazyflie drone architecture"
 excerpt: "Information about this drone and its framework."
 image:
   header: assets/images/infrastructure/crazyflie.jpg
@@ -35,6 +35,6 @@ document_path: ../../assets/docs/crazyflie_specimen.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Flying the Crazyflie
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyflie drone architecture
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

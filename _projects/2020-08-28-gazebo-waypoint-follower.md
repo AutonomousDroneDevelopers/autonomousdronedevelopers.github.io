@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Flying the Snapdragon Flight Pro"
-excerpt: "Information about this drone and its framework."
+title: "Gazebo-ROS Obstacle Approach"
+excerpt: "Project: coding bot behaviours within the Gazebo simulator based on what the bot observes."
 image:
   header: assets/images/infrastructure/snapdragon-parts1.jpg
   teaser: assets/images/infrastructure/snapdragon-parts1.jpg
@@ -33,6 +33,6 @@ document_path: ../../assets/docs/technical_botdrivestowaypoint.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Optitrack Motion Capture
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Gazebo-ROS Obstacle Approach
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

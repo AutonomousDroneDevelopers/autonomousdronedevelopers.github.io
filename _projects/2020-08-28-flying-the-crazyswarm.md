@@ -3,11 +3,11 @@ layout: single
 title: "Flying the Crazyswarm"
 excerpt: "Project: flying the drone within the Crazyswarm control loop."
 image:
-  header: assets/images/projects/motion-control-loop.PNG
-  teaser: assets/images/projects/motion-control-loop.PNG
+  header: assets/images/projects/patterns.jpg
+  teaser: assets/images/projects/patterns.jpg
 header:
-  teaser: assets/images/projects/motion-control-loop.PNG
-  overlay_image: assets/images/projects/motion-control-loop.PNG
+  teaser: assets/images/projects/patterns.jpg
+  overlay_image: assets/images/projects/patterns.jpg
 categories: Projects
 tags:
 - Trajectories

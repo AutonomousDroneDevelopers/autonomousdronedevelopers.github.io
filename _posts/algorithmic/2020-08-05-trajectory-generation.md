@@ -31,7 +31,7 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
-document_path: ../../assets/docs/trajectory_introduction.pdf
+document_path: ../../assets/docs/trajectory_intro.pdf
 
 ---
 

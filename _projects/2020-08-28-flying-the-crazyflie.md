@@ -1,17 +1,17 @@
 ---
 layout: single
-title: "Gazebo-ROS Obstacle Approach Project"
-excerpt: "Project: coding bot behaviours based on what the bot observes."
+title: "Flying the Crazyflie"
+excerpt: "Project: flying the drone in different flight scenarios."
 image:
-  header: assets/images/projects/gazebo-ros.png
-  teaser: assets/images/projects/gazebo-ros.png
+  header: assets/images/projects/cf.jpg
+  teaser: assets/images/projects/cf.jpg
 header:
-  teaser: assets/images/projects/gazebo-ros.png
-  overlay_image: assets/images/projects/gazebo-ros.png
+  teaser: assets/images/projects/cf.jpg
+  overlay_image: assets/images/projects/cf.jpg
 categories: Projects
 tags:
-- Simulator
-- ROS
+- Trajectories
+- Drone Specimen
 
 toc: true
 toc_sticky: true
@@ -33,6 +33,6 @@ document_path: ../../assets/docs/technical_botdrivestowaypoint.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Gazebo-ROS Obstacle Approach Project
+# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Gazebo-ROS Obstacle Approach
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

@@ -18,6 +18,13 @@ toc: true
 toc_sticky: true
 date: 2019-01-12
 
+
+gallery:
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
+    image_path: /assets/images/icons/optitrack.png
+    alt: "fpv drone"
+    title: "fpv drone"
+
 gallery_2:
   - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
     image_path: /assets/images/icons/optitrack.png

@@ -33,7 +33,7 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Robot Behaviour Planning
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Robot Behaviour Planning
 
 This tutorial is meant to cover behaviour planning for robots in a variety of event-based scenarios, using Python at first and later with C++. From a wheeled robot executing a sequence of actions, to a drone flying through different waypoints, with everything in between including python classes to abstract key information, C++ pointers for accessing realtime data, or even the SMACH lib for forming rudimentary state machines in python environments.
 

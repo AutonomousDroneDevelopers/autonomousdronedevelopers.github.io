@@ -50,6 +50,5 @@ caption=" "
 
 {% include gallery id="gallery" caption="The best ideas for drone guards." %}
 
-{% include gallery2 id="gallery2" caption="The best ideas for drone guards." %}
 
 <!-- <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe> -->

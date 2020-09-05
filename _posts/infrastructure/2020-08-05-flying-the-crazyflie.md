@@ -39,11 +39,6 @@ document_path: ../../assets/docs/crazyflie_specimen.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Drone Guards and other flight tips
-
-
-
-
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyflie drone architecture
 

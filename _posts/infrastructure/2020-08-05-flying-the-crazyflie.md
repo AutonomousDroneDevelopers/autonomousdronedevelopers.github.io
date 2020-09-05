@@ -85,27 +85,34 @@ This tutorial is meant to cover the **specific configuration of the Crazyflie 2.
 <!--{% include gallery id="gallery_2" layout="quarter" class="full" caption="The best ideas for drone guards." %}-->
 
 # Overview: a research drone
-
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path1 }}" width="100%" height="1000px"></iframe>
-
+Some text here. Because text makes stuff beautiful.
 {% include video id="tzNdX6B2C3o" provider="youtube" %}
+Some text here. Because text makes stuff beautiful.
 
 # Drone components
-
+Some text here. Because text makes stuff beautiful.
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path2 }}" width="100%" height="1000px"></iframe>
+Some text here. Because text makes stuff beautiful.
 
 # The Robotic Stack
-
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path3 }}" width="100%" height="1000px"></iframe>
+Some text here. Because text makes stuff beautiful.
 
 # Flight scripts
-
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path4 }}" width="100%" height="1000px"></iframe>
+Some text here. Because text makes stuff beautiful.
 
 # Connecting and compiling
-
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path5 }}" width="100%" height="1000px"></iframe>
+Some text here. Because text makes stuff beautiful.
 
 # Implementation at the DVIC
-
+Some text here. Because text makes stuff beautiful.
 <iframe src="{{ page.document_path6 }}" width="100%" height="1000px"></iframe>
+Some text here. Because text makes stuff beautiful.

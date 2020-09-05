@@ -89,7 +89,7 @@ https://www.bitcraze.io/support/external-projects/
 For drone maintenance, please refer to the drone tips tutorial.
 {% include gallery id="gallery_app" caption="" %}
 
-{% include gallery id="gallery_2" layout="quarter" class="full" caption="The best ideas for drone guards." %}
+<!--{% include gallery id="gallery_2" layout="quarter" class="full" caption="The best ideas for drone guards." %}-->
 
 # Overview: a research drone
 

@@ -18,30 +18,34 @@ toc: true
 toc_sticky: true
 date: 2019-01-12
 
-gallery:
-  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
+gallery_2:
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
     image_path: /assets/images/icons/optitrack.png
     alt: "fpv drone"
     title: "fpv drone"
 
-  - image_path: /assets/images/icons/remap.png
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/ros-remapping-to-simulator/
+    image_path: /assets/images/icons/remap.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-gallery_2:
-  - image_path: /assets/images/icons/ros-app.png
+  - url: https://autonomousdronedevelopers.github.io/performance/ros-applications/
+    image_path: /assets/images/icons/ros-app.png
     alt: "fpv drone"
     title: "fpv drone"
 
-  - image_path: /assets/images/icons/ros-data.png
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/visualising-ros-data/
+    image_path: /assets/images/icons/ros-data.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - image_path: /assets/images/icons/snapdragon.png
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/snapdragon-flight-pro/
+    image_path: /assets/images/icons/snapdragon.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - image_path: /assets/images/icons/linux-ros-background.png
+  - url: https://autonomousdronedevelopers.github.io/performance/linux-and-ros-background/
+    image_path: /assets/images/icons/linux-ros-background.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
@@ -57,6 +61,9 @@ The Crazyflie 2.1 is a **durable, open-hardware nano quadcopter** that targets h
 
 As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offers functional hardware for drone autonomy in a field marred by hardware constraints. Its 6 to 7 minutes of flight time make it practical for testing **autonomous flight algorithms**, and it has become the drone of choice for research laboratories. It is particularly adept to autonomous control and coordination of **multi-robot systems**, since its small size allows for **dense formations with low air turbulence**. It also offers agility in research pertaining to **control optimisation for aggressive manoeuvres**.
 
+
+{% include video id="tzNdX6B2C3o" provider="youtube" %}
+
 {% include gallery id="gallery_2" caption="The best ideas for drone guards." %}
 
 {%
@@ -65,8 +72,6 @@ image_path="assets/images/backgrounds/common-stack.PNG"
 alt="dev-tutorials"
 caption=" "
 %}
-
-{% include gallery id="gallery" caption="The best ideas for drone guards." %}
 
 
 <!-- <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe> -->

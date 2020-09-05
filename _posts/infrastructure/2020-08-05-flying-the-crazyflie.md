@@ -72,22 +72,15 @@ document_path5: /assets/docs/crazyflie/Connecting_and_compiling.pdf
 document_path6: /assets/docs/crazyflie/Implementation_DVIC.pdf
 
 ---
+# Related
 
+{% include gallery id="gallery_app" caption="" %}
 
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyflie drone architecture
 
 This tutorial is meant to cover the **specific configuration of the Crazyflie 2.1 drone**. In doing so, the firmware is explored to make the best use of this drone in the lab.
 
 {% include gallery id="gallery_architecture" caption="" %}
-
-# Useful links
-
-Starting point for the Crazyflie 2.1
-https://www.bitcraze.io/documentation/start/
-External projects based on the Crazyflie
-https://www.bitcraze.io/support/external-projects/
-For drone maintenance, please refer to the drone tips tutorial.
-{% include gallery id="gallery_app" caption="" %}
 
 <!--{% include gallery id="gallery_2" layout="quarter" class="full" caption="The best ideas for drone guards." %}-->
 

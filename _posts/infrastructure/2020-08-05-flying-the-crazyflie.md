@@ -28,7 +28,6 @@ gallery:
     title: "Custom line-sensors"
 
 
-document_path: /assets/docs/crazyflie_specimen.pdf
 
 ---
 

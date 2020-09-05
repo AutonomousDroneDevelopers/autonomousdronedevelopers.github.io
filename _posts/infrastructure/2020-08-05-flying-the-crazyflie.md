@@ -8,6 +8,7 @@ image:
 header:
   teaser: assets/images/infrastructure/crazyflie.jpg
   overlay_image: assets/images/infrastructure/crazyflie.jpg
+
 categories: Infrastructure
 tags:
 - Hardware
@@ -26,14 +27,6 @@ gallery:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-gallery2:
-  - image_path: /assets/images/infrastructure/guards-3.jpg
-    alt: "Custom voltage regulator"
-    title: "Custom voltage regulator"
-
-  - image_path: /assets/images/infrastructure/guards-4.jpg
-    alt: "Custom voltage regulator"
-    title: "Custom voltage regulator"
 
 document_path: /assets/docs/crazyflie_specimen.pdf
 

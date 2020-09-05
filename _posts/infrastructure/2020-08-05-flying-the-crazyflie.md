@@ -20,20 +20,20 @@ date: 2019-01-12
 
 gallery:
   - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
-    image_path: /assets/images/infrastructure/guards.png
+    image_path: /assets/images/icons/optitrack.png
     alt: "fpv drone"
     title: "fpv drone"
 
-  - image_path: /assets/images/infrastructure/guards-2.jpg
+  - image_path: /assets/images/icons/remap.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
 gallery_2:
-  - image_path: /assets/images/infrastructure/guards.png
+  - image_path: /assets/images/icons/ros-app.png
     alt: "fpv drone"
     title: "fpv drone"
 
-  - image_path: /assets/images/infrastructure/guards-2.jpg
+  - image_path: /assets/images/icons/ros-data.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 

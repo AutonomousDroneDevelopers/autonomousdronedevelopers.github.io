@@ -32,7 +32,7 @@ gallery_2:
     title: "fpv drone"
 
   - url: https://autonomousdronedevelopers.github.io/infrastructure/ros-remapping-to-simulator/
-    image_path: /assets/images/icons/remap.png
+    image_path: /assets/images/icons/_remap.png
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 

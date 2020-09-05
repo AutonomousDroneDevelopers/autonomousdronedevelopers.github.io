@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Drone Bot Design
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Drone Bot Design

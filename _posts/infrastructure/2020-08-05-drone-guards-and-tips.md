@@ -36,6 +36,6 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Drone Guards and other flight tips
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Drone Guards and other flight tips
 
 {% include gallery caption="The best ideas for drone guards." %}

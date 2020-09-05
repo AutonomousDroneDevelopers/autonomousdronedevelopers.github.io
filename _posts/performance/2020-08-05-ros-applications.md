@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} A primer on creating applications with ROS
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} A primer on creating applications with ROS

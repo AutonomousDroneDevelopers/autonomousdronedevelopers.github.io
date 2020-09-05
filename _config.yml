@@ -25,7 +25,7 @@ description              : &description "Drone developers based in Paris" #> # t
 url                      : https://autonomousdronedevelopers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "autonomousdronedevelopers/autonomousdronedevelopers.github.io"
-teaser                   : "/assets/images/favicon.jpg"
+teaser                   : "/assets/images/favicon.ico"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:

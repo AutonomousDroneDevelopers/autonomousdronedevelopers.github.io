@@ -35,6 +35,6 @@ document_path: ../../assets/docs/crazyswarm_overview.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyswarm framework for synchronised flight
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Crazyswarm framework for synchronised flight
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

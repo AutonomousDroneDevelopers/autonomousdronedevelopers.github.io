@@ -34,6 +34,6 @@ document_path: ../../assets/docs/optitrack_intro.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Optitrack Motion Capture
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Optitrack Motion Capture
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

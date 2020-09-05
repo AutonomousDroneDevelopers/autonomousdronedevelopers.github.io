@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} ROS Validation Tests
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} ROS Validation Tests

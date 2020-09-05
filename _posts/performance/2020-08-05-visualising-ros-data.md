@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Remapping real drone into simulators
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Remapping real drone into simulators

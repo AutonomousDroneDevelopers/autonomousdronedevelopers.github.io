@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Linux and ROS Basics
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Linux and ROS Basics

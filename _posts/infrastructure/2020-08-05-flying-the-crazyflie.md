@@ -76,7 +76,7 @@ document_path6: /assets/docs/crazyflie/Implementation_DVIC.pdf
 
 {% include gallery id="gallery_app" caption="" %}
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Crazyflie drone architecture
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Crazyflie drone architecture
 
 This tutorial is meant to cover the **specific configuration of the Crazyflie 2.1 drone**. In doing so, the firmware is explored to make the best use of this drone in the lab.
 

@@ -33,4 +33,8 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Remapping real drone into simulators
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Remapping real drone into simulators
+
+This tutorial is meant to cover the procedure for remapping the ROS outputs of two drones in order to have them follow the same trajectory. To do this tutorial, it is important to have some background in ROS, and specifically some experience with RQT graphs. The mapping procedure in itself, is relatively straightforward, provided your two drones provide pose information.
+
+This tutorial is written with videogame developers in mind, since they may be able to derive ways to connect drones to other virtual agents (planes, turtles and human heads.).

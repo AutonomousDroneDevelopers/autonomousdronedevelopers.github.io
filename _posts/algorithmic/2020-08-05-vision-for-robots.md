@@ -33,4 +33,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} A primer on computer vision for robots
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} A primer on computer vision for robots

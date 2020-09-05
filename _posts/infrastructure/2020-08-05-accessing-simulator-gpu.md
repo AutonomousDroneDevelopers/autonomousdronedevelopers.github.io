@@ -33,4 +33,8 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Accessing the Simulator GPU remotely
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Accessing the Simulator GPU remotely
+
+This tutorial is meant to cover the procedure for visualising the RTX screen from your home computer over the DVIC VPN. A clear understanding of the security protocols will help you peel back the correct security layers of X-display, a protocol that is riddled with complexity.
+
+This tutorial is written with drone developers in mind, since our Simulator GPU has the robotics framework set up for developers to test their code remotely.

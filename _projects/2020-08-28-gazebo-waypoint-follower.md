@@ -33,6 +33,6 @@ document_path: ../../assets/docs/technical_botdrivestowaypoint.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Gazebo-ROS Obstacle Approach Project
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Gazebo-ROS Obstacle Approach Project
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

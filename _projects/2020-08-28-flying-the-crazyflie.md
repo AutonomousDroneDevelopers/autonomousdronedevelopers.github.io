@@ -34,6 +34,6 @@ document_path: ../../assets/docs/technical_single-crazyflie.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Flying the Crazyflie
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Flying the Crazyflie
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

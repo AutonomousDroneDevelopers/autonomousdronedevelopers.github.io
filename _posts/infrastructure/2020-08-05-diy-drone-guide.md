@@ -31,4 +31,4 @@ gallery:
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} DIY Drone Guide
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} DIY Drone Guide

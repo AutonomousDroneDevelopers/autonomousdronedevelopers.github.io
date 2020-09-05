@@ -35,6 +35,6 @@ document_path: ../../assets/docs/pid_introduction.pdf
 
 ---
 
-# ![favicon](/assets/images/favicon.jpg){: .aligned-left} Drone Control
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Drone Control
 
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

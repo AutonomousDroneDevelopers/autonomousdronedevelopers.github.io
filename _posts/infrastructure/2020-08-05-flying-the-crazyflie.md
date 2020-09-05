@@ -64,7 +64,7 @@ As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offer
 
 {% include video id="tzNdX6B2C3o" provider="youtube" %}
 
-{% include gallery id="gallery_2" caption="The best ideas for drone guards." %}
+{% include gallery id="gallery_2" layout="third" caption="The best ideas for drone guards." %}
 
 {%
 include figure

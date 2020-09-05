@@ -39,7 +39,7 @@ This tutorial is meant to cover behaviour planning for robots in a variety of ev
 
 These tutorials are written for budding roboticists looking to model robot behaviours with robots capable of motion and means of interacting with other robots and humans.
 
-{% include gallery caption="Custom electronics: h-bridges (2), line sensors (8), voltage regulator (1), custom-made for cost." %}
+{% include gallery id="gallery" caption="Custom electronics: h-bridges (2), line sensors (8), voltage regulator (1), custom-made for cost." %}
 
 The first step is to understand the key benefits of event-based behaviour planning: why not simply set up a sequence of actions? And there are in fact situations where this is all that is needed. Using a wheeled robot, we program it to search for a friendly face, to approach it and to stop at a certain distance. The Python+ROS code is available on our github.
 

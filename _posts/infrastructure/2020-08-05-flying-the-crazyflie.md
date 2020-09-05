@@ -19,11 +19,11 @@ toc_sticky: true
 date: 2019-01-12
 
 
-gallery:
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
-    image_path: /assets/images/icons/optitrack.png
-    alt: "fpv drone"
-    title: "fpv drone"
+gallery_architecture:
+
+  - image_path: /assets/images/infrastructure/crazyflie/architecture.png
+    alt: "architecture"
+    title: ""
 
 gallery_2:
   - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
@@ -68,6 +68,7 @@ The Crazyflie 2.1 is a **durable, open-hardware nano quadcopter** that targets h
 
 As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offers functional hardware for drone autonomy in a field marred by hardware constraints. Its 6 to 7 minutes of flight time make it practical for testing **autonomous flight algorithms**, and it has become the drone of choice for research laboratories. It is particularly adept to autonomous control and coordination of **multi-robot systems**, since its small size allows for **dense formations with low air turbulence**. It also offers agility in research pertaining to **control optimisation for aggressive manoeuvres**.
 
+{% include gallery id="gallery_architecture" caption="" %}
 
 {% include video id="tzNdX6B2C3o" provider="youtube" %}
 

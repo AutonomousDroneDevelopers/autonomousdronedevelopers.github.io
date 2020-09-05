@@ -64,6 +64,13 @@ gallery_2:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
+document_path1: /assets/docs/crazyflie/Overview.pdf
+document_path2: /assets/docs/crazyflie/Drone_components.pdf
+document_path3: /assets/docs/crazyflie/The_Robotic_Stack.pdf
+document_path4: /assets/docs/crazyflie/Flight_scripts.pdf
+document_path5: /assets/docs/crazyflie/Connecting_and_compiling.pdf
+document_path6: /assets/docs/crazyflie/Implementation_DVIC.pdf
+
 ---
 
 
@@ -85,6 +92,9 @@ For drone maintenance, please refer to the drone tips tutorial.
 {% include gallery id="gallery_2" layout="quarter" class="full" caption="The best ideas for drone guards." %}
 
 # Overview: a research drone
+
+<iframe src="{{ page.document_path1 }}" width="100%" height="1000px"></iframe>
+
 The Crazyflie 2.1 is a **durable, open-hardware nano quadcopter** that targets hobbyists and researchers. Its small size (92 mm diagonal rotor-to-rotor) and weight (27 g) make it ideal for indoor swarming applications. The firmware is open source and the flexibility of the platform makes it ideal for research, education or other applications where openness and full control is important.
 
 As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offers functional hardware for drone autonomy in a field marred by hardware constraints. Its 6 to 7 minutes of flight time make it practical for testing **autonomous flight algorithms**, and it has become the drone of choice for research laboratories. It is particularly adept to autonomous control and coordination of **multi-robot systems**, since its small size allows for **dense formations with low air turbulence**. It also offers agility in research pertaining to **control optimisation for aggressive manoeuvres**.
@@ -92,6 +102,8 @@ As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offer
 {% include video id="tzNdX6B2C3o" provider="youtube" %}
 
 # Drone components
+
+<iframe src="{{ page.document_path2 }}" width="100%" height="1000px"></iframe>
 
 The architecture is as follows (for 2.0 and 2.1 versions):
 {% include gallery id="gallery_architecture" caption="" %}
@@ -113,5 +125,3 @@ If you are interested in learning more about autonomous drones, please consult t
 {% include gallery id="gallery_autonomous" caption="" %}
 
 # PDF version of this post:
-
-<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

@@ -35,7 +35,7 @@ gallery2:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
-document_path: ../../assets/docs/crazyflie_specimen.pdf
+document_path: /assets/docs/crazyflie_specimen.pdf
 
 ---
 

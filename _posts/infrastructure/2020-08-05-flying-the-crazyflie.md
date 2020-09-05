@@ -37,6 +37,13 @@ gallery_2:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
+  - image_path: /assets/images/icons/snapdragon.png
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - image_path: /assets/images/icons/linux-ros-background.png
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 
 ---
 

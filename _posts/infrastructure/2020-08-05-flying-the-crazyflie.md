@@ -95,33 +95,24 @@ For drone maintenance, please refer to the drone tips tutorial.
 
 <iframe src="{{ page.document_path1 }}" width="100%" height="1000px"></iframe>
 
-The Crazyflie 2.1 is a **durable, open-hardware nano quadcopter** that targets hobbyists and researchers. Its small size (92 mm diagonal rotor-to-rotor) and weight (27 g) make it ideal for indoor swarming applications. The firmware is open source and the flexibility of the platform makes it ideal for research, education or other applications where openness and full control is important.
-
-As a fist-sized, **lightweight and re-assemblable** piece of equipment, it offers functional hardware for drone autonomy in a field marred by hardware constraints. Its 6 to 7 minutes of flight time make it practical for testing **autonomous flight algorithms**, and it has become the drone of choice for research laboratories. It is particularly adept to autonomous control and coordination of **multi-robot systems**, since its small size allows for **dense formations with low air turbulence**. It also offers agility in research pertaining to **control optimisation for aggressive manoeuvres**.
-
 {% include video id="tzNdX6B2C3o" provider="youtube" %}
 
 # Drone components
 
 <iframe src="{{ page.document_path2 }}" width="100%" height="1000px"></iframe>
 
-The architecture is as follows (for 2.0 and 2.1 versions):
-{% include gallery id="gallery_architecture" caption="" %}
-
-	STM32F405: main microcontroller, used for state-estimation, control, and handling of extensions. (Cortex-M4, 168 MHz, 192 kB SRAM, 1 MB flash).
-	nRF51822: radio and power management microcontroller. (Cortex-M0, 32 MHz, 16 kB SRAM, 128 kB flash).
-	MPU-9250: 9-axis inertial measurement unit.
-	LPS25H: pressure sensor.
-	8 kB EEPROM.
-	uUSB: charging and wired communication.
-	Expansion port (I2C, UART, SPI, GPIO).
-	Debug port for STM32. An optional debug-kit can be used to convert to a standard JTAG-connector and to debug the nRF51 as well.
-
 # The Robotic Stack
 
-In terms of robotic functionality, the Crazyflie packages the full robotic stack. After all, the firmware, built on the FreeRTOS operating system, is opensource and modifiable. FreeRTOS handles the scheduling of processes and control the flight calculations. This robotic stack includes its own state estimator, control architecture and trajectory follower, which work out of the box. These algorithms are detailed on the Bitcraze website, and they can be customised at compile time. Note however the lack of localization framework, which calls for added modules, or an external localization system. There are two in-house position systems in the Crazyflie ecosystem: the Ultra Wide Band based Loco Positioning System and the Lighthouse positioning system, based on HTC Vive. It is also possible to integrate with external positioning systems, for instance Motion Capture systems.
+<iframe src="{{ page.document_path3 }}" width="100%" height="1000px"></iframe>
 
-If you are interested in learning more about autonomous drones, please consult this tutorial:
-{% include gallery id="gallery_autonomous" caption="" %}
+# Flight scripts
 
-# PDF version of this post:
+<iframe src="{{ page.document_path4 }}" width="100%" height="1000px"></iframe>
+
+# Connecting and compiling
+
+<iframe src="{{ page.document_path5 }}" width="100%" height="1000px"></iframe>
+
+# Implementation at the DVIC
+
+<iframe src="{{ page.document_path6 }}" width="100%" height="1000px"></iframe>

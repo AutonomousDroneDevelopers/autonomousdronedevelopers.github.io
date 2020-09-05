@@ -19,7 +19,8 @@ toc_sticky: true
 date: 2019-01-12
 
 gallery:
-  - image_path: /assets/images/infrastructure/guards.png
+  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
+    image_path: /assets/images/infrastructure/guards.png
     alt: "fpv drone"
     title: "fpv drone"
 

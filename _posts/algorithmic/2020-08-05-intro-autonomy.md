@@ -29,7 +29,7 @@ gallery:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-document_path1: /assets/docs/Internship_DVIC_report_2020.pdf
+document_path1: /assets/docs/autonomous_drones.pdf
 ---
 # ![favicon](/assets/images/favicon.jpg){: .aligned-left} Introduction to Autonomous Drones
 

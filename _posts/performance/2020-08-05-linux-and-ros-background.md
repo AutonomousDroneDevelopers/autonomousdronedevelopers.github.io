@@ -35,4 +35,5 @@ document_path: /assets/docs/linux_ros_basics.pdf
 ---
 
 # ![favicon](/assets/images/favicon.ico){: .aligned-left} Getting started with Robotics on Linux
+
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

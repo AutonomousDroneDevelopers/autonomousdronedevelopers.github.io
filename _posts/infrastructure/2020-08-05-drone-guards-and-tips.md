@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Drone Guards and other flight tips"
+title: "Changelog: drone maintenance"
 excerpt: "Information about this drone and its framework."
 image:
   header: assets/images/infrastructure/guards-4.jpg
@@ -34,8 +34,11 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
+    document_path: ../../assets/docs/drone_guards.pdf
+
+
 ---
 
-# ![favicon](/assets/images/favicon.ico){: .aligned-left} Drone Guards and other flight tips
+# ![favicon](/assets/images/favicon.ico){: .aligned-left} Changelog: drone maintenance
 
-{% include gallery caption="The best ideas for drone guards." %}
+<iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

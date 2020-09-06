@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Changelog: drone maintenance"
-excerpt: "Information about this drone and its framework."
+excerpt: "Updates on the drones at the lab."
 image:
   header: assets/images/infrastructure/guards-4.jpg
   teaser: assets/images/infrastructure/guards-4.jpg
@@ -34,7 +34,7 @@ gallery:
     alt: "Custom voltage regulator"
     title: "Custom voltage regulator"
 
-    document_path: ../../assets/docs/drone_guards.pdf
+document_path: ../../assets/docs/drone_guards.pdf
 
 
 ---

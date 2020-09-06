@@ -15,7 +15,7 @@ gallery_remote:
     title: "behaviour-planning"
 
   - url: https://autonomousdronedevelopers.github.io/performance/ros-validation-tests/
-    image_path: /assets/images/frontpage/remote/2.PNG
+    image_path: /assets/images/frontpage/remote/2b.PNG
     alt: "ros-validation-tests"
     title: "ros-validation-tests"
 

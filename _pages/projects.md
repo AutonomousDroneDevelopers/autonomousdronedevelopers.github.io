@@ -80,7 +80,7 @@ gallery_efficient:
 -->
 {%
 include figure
-image_path="assets/images/backgrounds/robots-idea.PNG"
+image_path="assets/images/frontpage/robots-idea.PNG"
 alt="dev-tutorials"
 caption=" "
 %}
@@ -92,7 +92,7 @@ caption=" "
 -->
 {%
 include figure
-image_path="assets/images/backgrounds/remotely-idea.PNG"
+image_path="assets/images/frontpage/remotely-idea.PNG"
 alt="dev-tutorials"
 caption=" "
 %}

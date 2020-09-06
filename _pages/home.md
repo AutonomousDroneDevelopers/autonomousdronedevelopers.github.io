@@ -10,33 +10,64 @@ last_modified_at: 2019-06-11T11:22:24-05:00
 toc: false
 
 gallery_software:
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/intro-autonomy/
     image_path: /assets/images/frontpage/software/1.PNG
     alt: "fpv drone"
     title: "fpv drone"
 
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/ros-remapping-to-simulator/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/drone-bot-design/
     image_path: /assets/images/frontpage/software/2.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - url: https://autonomousdronedevelopers.github.io/performance/ros-applications/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/behaviour-planning/
     image_path: /assets/images/frontpage/software/3.PNG
     alt: "fpv drone"
     title: "fpv drone"
 
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/visualising-ros-data/
+  - url: https://autonomousdronedevelopers.github.io/performance/linux-and-ros-background/
     image_path: /assets/images/frontpage/software/4.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/snapdragon-flight-pro/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/drone-control-architecture/
     image_path: /assets/images/frontpage/software/5.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-  - url: https://autonomousdronedevelopers.github.io/infrastructure/snapdragon-flight-pro/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/trajectory-generation/
     image_path: /assets/images/frontpage/software/6.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+gallery_hardware:
+  - url: https://autonomousdronedevelopers.github.io/algorithms/intro-autonomy/
+    image_path: /assets/images/frontpage/remote/1.PNG
+    alt: "fpv drone"
+    title: "fpv drone"
+
+  - url: https://autonomousdronedevelopers.github.io/algorithms/drone-bot-design/
+    image_path: /assets/images/frontpage/remote/2.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - url: https://autonomousdronedevelopers.github.io/algorithms/behaviour-planning/
+    image_path: /assets/images/frontpage/remote/3.PNG
+    alt: "fpv drone"
+    title: "fpv drone"
+
+  - url: https://autonomousdronedevelopers.github.io/performance/linux-and-ros-background/
+    image_path: /assets/images/frontpage/remote/4.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - url: https://autonomousdronedevelopers.github.io/algorithms/drone-control-architecture/
+    image_path: /assets/images/frontpage/remote/5.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - url: https://autonomousdronedevelopers.github.io/algorithms/trajectory-generation/
+    image_path: /assets/images/frontpage/remote/6.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 ---

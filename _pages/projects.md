@@ -106,6 +106,18 @@ gallery_efficient:
 <h2>Tutorials for different purposes.</h2>
 
 <h2></h2>
+<h2>Some Optitrack companion tools to gain in efficiency.</h2>
+{% include gallery id="gallery_efficient" layout="fourth" class="full" caption="" %}
+<!--
+{%
+include figure
+image_path="assets/images/frontpage/remotely-idea.PNG"
+alt="dev-tutorials"
+caption=" "
+%}
+-->
+
+<h2></h2>
 <h2>Developing robots from your home PC.</h2>
 {% include gallery id="gallery_remote" layout="fourth" class="full" caption="" %}
 <!--
@@ -117,16 +129,5 @@ caption=" "
 %}-->
 
 
-<h2></h2>
-<h2>Some Optitrack companion tools to gain in efficiency.</h2>
-{% include gallery id="gallery_efficient" layout="fourth" class="full" caption="" %}
-<!--
-{%
-include figure
-image_path="assets/images/frontpage/remotely-idea.PNG"
-alt="dev-tutorials"
-caption=" "
-%}
--->
 
 <h2>Some projects that have used these tutorials.</h2>

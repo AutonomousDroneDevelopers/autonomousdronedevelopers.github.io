@@ -8,4 +8,4 @@ header:
   overlay_image: /assets/images/backgrounds/paris-skyline.jpg
 ---
 
-<h2>List of tutorials.</h2>
+<h2>Tutorials in no particular order.</h2>

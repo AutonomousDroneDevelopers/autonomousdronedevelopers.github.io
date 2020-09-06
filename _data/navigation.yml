@@ -14,7 +14,7 @@ main:
   #  url: /cv/
   - title: "Technologies"
     url: /skills/
-  - title: "Explore"
+  - title: "Usecases"
     url: /projects/
   #- title: "Privacy Policy"
   #  url: /terms/

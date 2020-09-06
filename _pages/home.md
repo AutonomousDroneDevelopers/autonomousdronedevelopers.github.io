@@ -106,8 +106,7 @@ gallery_interface:
 
 We are an innovation laboratory in Paris.
 
-We enjoy developing _drones_ and **robotic** systems that make decisions autonomously.
-
+We develop **drones** and **robotic** systems that make decisions autonomously.
 
 
 <h2>Software.</h2>

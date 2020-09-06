@@ -53,7 +53,7 @@ We enjoy developing _drones_ and **robotic** systems that make decisions autonom
 
 <h2>We have a common software stack to create stable, responsive and creative behaviours.</h2>
 
-{% include gallery id="gallery_software" layout="third" class="full" caption="" %}
+{% include gallery id="gallery_software" layout="fourth" class="full" caption="" %}
 
 {%
 include figure

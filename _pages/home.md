@@ -82,7 +82,7 @@ caption=" "
 <h2>Projects.</h2>
 
 <!-- PUT A BETTER VIDEO HERE -->
-<iframe width="727" height="409" src="https://www.youtube.com/embed/g72GeBA-ky8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- PHOTOS OF PROJECTS
 {%

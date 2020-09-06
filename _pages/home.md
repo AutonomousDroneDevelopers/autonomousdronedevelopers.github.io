@@ -46,10 +46,10 @@ gallery_hardware:
     alt: "flying-the-crazyflie"
     title: "flying-the-crazyflie"
 
-#  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
-#    image_path: /assets/images/frontpage/hardware/2.PNG
-#    alt: "optitrack"
-#    title: optitrack"
+  - url: https://autonomousdronedevelopers.github.io/infrastructure/optitrack/
+    image_path: /assets/images/frontpage/hardware/2b.PNG
+    alt: "optitrack"
+    title: optitrack"
 
   - url: https://autonomousdronedevelopers.github.io/infrastructure/drone-guards-and-tips/
     image_path: /assets/images/frontpage/hardware/3.PNG

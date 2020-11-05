@@ -141,6 +141,6 @@ caption=" "
 %}-->
 {% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}
 
-<h1> Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).
+Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).
 
 <h2>Some projects that have used these tutorials.</h2>

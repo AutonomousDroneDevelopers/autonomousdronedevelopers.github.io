@@ -37,4 +37,6 @@ document_path: ../../assets/docs/trajectory_intro.pdf
 
 # ![favicon](/assets/images/favicon.ico){: .aligned-left} Trajectory Generation
 
+# [ AREA UNDER DEVELOPMENT ]
+
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

@@ -34,3 +34,5 @@ gallery:
 ---
 
 # ![favicon](/assets/images/favicon.ico){: .aligned-left} Drone Bot Design
+
+# [ AREA UNDER DEVELOPMENT ]

@@ -10,6 +10,4 @@ header:
 last_modified_at: 2018-01-10T11:22:24-05:00
 ---
 
-# Equipment
-
-[3x1 Arena w Drone | Simulator GPU w Drone | Optitrack Ideal Setup ]
+# Technologies

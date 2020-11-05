@@ -35,4 +35,6 @@ document_path: ../../assets/docs/drone_guards.pdf
 
 # ![favicon](/assets/images/favicon.ico){: .aligned-left} Introduction to DIY Drones
 
+# [ AREA UNDER DEVELOPMENT ]
+
 <iframe src="{{ page.document_path }}" width="100%" height="1000px"></iframe>

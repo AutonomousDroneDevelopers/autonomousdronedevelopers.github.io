@@ -34,6 +34,8 @@ gallery:
 
 # ![favicon](/assets/images/favicon.ico){: .aligned-left} Experiences with the Snapdragon Flight Pro
 
+# [ AREA UNDER DEVELOPMENT ]
+
 This tutorial is meant to cover the Snapdragon Flight Pro, an integrated platform for a VIO-enabled, Snapdragon-chip drone. A background understanding of the Snapdragon board shows the potential of the framework for various applications.
 
 __Bibliography__

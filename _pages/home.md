@@ -135,7 +135,7 @@ gallery_gpu:
 
 <iframe width="727" height="409" src="https://www.youtube.com/embed/zLfq-wvAdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h1> </h1>
-<h1>The overhead camera records each test, and you can watch the stream in realtime on [Twitch](https://dashboard.twitch.tv/u/autonomousdronedevelopers). </h1>
+The overhead camera records each test, and you can watch the stream in realtime on [Twitch](https://dashboard.twitch.tv/u/autonomousdronedevelopers).
 
 <h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies section. </h2>
 

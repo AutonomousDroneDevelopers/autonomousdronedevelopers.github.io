@@ -102,24 +102,24 @@ gallery_interface:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-    gallery_net:
+gallery_net:
 
-      - url: https://autonomousdronedevelopers.github.io/arena/arena1
-        image_path: /assets/images/frontpage/arena/arena1.jpg
-        alt: "Custom line-sensors"
-        title: "Custom line-sensors"
+  - url: https://autonomousdronedevelopers.github.io/arena/arena1
+    image_path: /assets/images/frontpage/arena/arena1.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 
-      - url: https://autonomousdronedevelopers.github.io/arena/arena2
-        image_path: /assets/images/frontpage/arena/arena2.jpg
-        alt: "Custom line-sensors"
-        title: "Custom line-sensors"
+  - url: https://autonomousdronedevelopers.github.io/arena/arena2
+    image_path: /assets/images/frontpage/arena/arena2.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 
-    gallery_gpu:
+gallery_gpu:
 
-      - url: https://autonomousdronedevelopers.github.io/arena/arena3
-        image_path: /assets/images/frontpage/arena/arena3.jpg
-        alt: "Custom line-sensors"
-        title: "Custom line-sensors"
+  - url: https://autonomousdronedevelopers.github.io/arena/arena3
+    image_path: /assets/images/frontpage/arena/arena3.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 ---
 
 

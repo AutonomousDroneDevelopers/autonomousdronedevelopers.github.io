@@ -101,9 +101,14 @@ gallery_efficient:
     alt: "linux-and-ros-background"
     title: "linux-and-ros-background"
 
+gallery_collab:
+  - url: https://autonomousdronedevelopers.github.io/performance/linux-and-ros-background/
+    image_path: /assets/images/performance/collaborate.PNG
+    alt: "optitrack"
+    title: "optitrack"
 ---
 
-# Overview of work done on Arena
+# Current work done on Arena
 
 The Drone Arena is currently used in three separate domains:
 - Drone Development
@@ -134,7 +139,8 @@ image_path="assets/images/frontpage/robots-idea.PNG"
 alt="dev-tutorials"
 caption=" "
 %}-->
+{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}
 
-
+<h1> Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).
 
 <h2>Some projects that have used these tutorials.</h2>

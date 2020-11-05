@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "About"
+title: "Drones at the DVIC"
 header:
   overlay_image: /assets/images/backgrounds/paris-skyline.jpg
 #classes: wide
@@ -101,29 +101,67 @@ gallery_interface:
     image_path: /assets/images/frontpage/interface/6.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
+
+gallery_gpu:
+
+  - url: https://autonomousdronedevelopers.github.io/arena/arena1
+    image_path: /assets/images/frontpage/arena/arena1.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - url: https://autonomousdronedevelopers.github.io/arena/arena2
+    image_path: /assets/images/frontpage/arena/arena2.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+  - url: https://autonomousdronedevelopers.github.io/arena/arena3
+    image_path: /assets/images/frontpage/arena/arena3.jpg
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 ---
-<h2>Welcome.</h2>
 
-We are an innovation laboratory in Paris.
 
-We develop **drones** and **robotic** systems that make decisions autonomously.
+<h2>Official site of the DVIC Drone Lab.</h2>
 
+<h1>We are an upcoming tech lab in Paris. </h1>
+
+<h2>The DVIC Drone Lab operates at a Fablab in the De Vinci Innovation Center. We develop drones and robotic systems. We have a drone arena which we use for experimentation and testing.</h2>
+
+<iframe width="727" height="409" src="https://www.youtube.com/embed/d1gjkAIj0SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1> </h1>
+<h1>The platform is in beta stage and we welcome anyone interested in using it.</h1>
+
+<h2>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h2>
+
+<iframe width="727" height="409" src="https://www.youtube.com/embed/zLfq-wvAdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1> </h1>
+<h1>The overhead camera records each test, and you can watch the stream in realtime on [Twitch](https://dashboard.twitch.tv/u/autonomousdronedevelopers). </h1>
+
+<h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies section. </h2>
+
+{% include gallery id="gallery_gpu" caption="See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE)" %}
+
+
+<h1>Resources (under development).</h1>
+<h2>The platform is in beta stage and we welcome anyone interested in using it.</h2>
 
 <h2>Software.</h2>
 
-<h2>We have a common software stack to create stable, responsive and creative behaviours.</h2>
+<h2>We are exploring technologies for various projects.</h2>
 
 {% include gallery id="gallery_software" layout="fourth" class="full" caption="" %}
 
 <h2>Hardware.</h2>
 
-<h2>We share a standard set of equipment for drone conception.</h2>
+<h2>We have equipment for drone conception, maintenance and other development.</h2>
 
 {% include gallery id="gallery_hardware" layout="fourth" class="full" caption="" %}
 
 <h2>An interface.</h2>
 
-<h2>We have developed virtual-to-real infrastructure to visualise robots in their environment.</h2>
+<h2>We are currently developing virtual-to-real infrastructure to visualise robots in their environment.</h2>
+
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include gallery id="gallery_interface" layout="fourth" class="full" caption="" %}
 
@@ -152,10 +190,9 @@ alt="dev-tutorials"
 caption=" "
 %}
 -->
-<h2>Projects.</h2>
 
-<!-- PUT A BETTER VIDEO HERE -->
-<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <!-- PHOTOS OF PROJECTS
 {%

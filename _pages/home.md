@@ -102,28 +102,30 @@ gallery_interface:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-gallery_gpu:
+    gallery_net:
 
-  - url: https://autonomousdronedevelopers.github.io/arena/arena1
-    image_path: /assets/images/frontpage/arena/arena1.jpg
-    alt: "Custom line-sensors"
-    title: "Custom line-sensors"
+      - url: https://autonomousdronedevelopers.github.io/arena/arena1
+        image_path: /assets/images/frontpage/arena/arena1.jpg
+        alt: "Custom line-sensors"
+        title: "Custom line-sensors"
 
-  - url: https://autonomousdronedevelopers.github.io/arena/arena2
-    image_path: /assets/images/frontpage/arena/arena2.jpg
-    alt: "Custom line-sensors"
-    title: "Custom line-sensors"
+      - url: https://autonomousdronedevelopers.github.io/arena/arena2
+        image_path: /assets/images/frontpage/arena/arena2.jpg
+        alt: "Custom line-sensors"
+        title: "Custom line-sensors"
 
-  - url: https://autonomousdronedevelopers.github.io/arena/arena3
-    image_path: /assets/images/frontpage/arena/arena3.jpg
-    alt: "Custom line-sensors"
-    title: "Custom line-sensors"
+    gallery_gpu:
+
+      - url: https://autonomousdronedevelopers.github.io/arena/arena3
+        image_path: /assets/images/frontpage/arena/arena3.jpg
+        alt: "Custom line-sensors"
+        title: "Custom line-sensors"
 ---
 
 
 <h2>Official site of the DVIC Drone Lab.</h2>
 
-<h1>We are an upcoming tech lab in Paris. </h1>
+<h1>We are an upcoming tech lab at La Defense, Paris. </h1>
 
 <h2>The DVIC Drone Lab operates at a Fablab in the De Vinci Innovation Center. We develop drones and robotic systems. We have a drone arena which we use for experimentation and testing.</h2>
 
@@ -139,8 +141,15 @@ The overhead camera records each test, and you can watch the stream in realtime 
 
 <h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies section. </h2>
 
+See [an introduction to Optitrack motion capture](https://autonomousdronedevelopers.github.io/infrastructure/optitrack/).
+
+See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/).
+
+See [an intro to the crazyflie drone ](https://autonomousdronedevelopers.github.io/infrastructure/flying-the-crazyflie/).
+
 {% include gallery id="gallery_gpu" caption="See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE)" %}
 
+{% include gallery id="gallery_net" caption="" %}
 
 <h1>Resources (under development).</h1>
 <h2>The platform is in beta stage and we welcome anyone interested in using it.</h2>

@@ -103,9 +103,16 @@ gallery_efficient:
 
 ---
 
-<h2>Tutorials for different purposes.</h2>
+# Overview of work done on Arena
 
-<h2></h2>
+The Drone Arena is currently used in three separate domains:
+- Drone Development
+- Augmented Reality
+- Drone Swarming
+
+All the teams use the platform to test their projects.
+For this purpose, multiple tools are currently being developed.
+
 <h2>Some Optitrack companion tools to gain in efficiency.</h2>
 {% include gallery id="gallery_efficient" layout="fourth" class="full" caption="" %}
 <!--

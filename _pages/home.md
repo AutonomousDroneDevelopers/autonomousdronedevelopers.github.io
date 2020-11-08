@@ -133,7 +133,14 @@ gallery_theory:
 gallery_platform:
 
   - url: https://autonomousdronedevelopers.github.io/arena/stages-illustrated
-    image_path: /assets/images/frontpage/arena/platform.jpg
+    image_path: /assets/images/frontpage/arena/platform.png
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
+
+gallery_functionalities:
+
+  - url: https://autonomousdronedevelopers.github.io/arena/stages-illustrated
+    image_path: /assets/images/frontpage/arena/functionalities.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 ---
@@ -155,45 +162,29 @@ gallery_platform:
 
 {% include gallery id="gallery_theory" caption="" %}
 
-<h2>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h2>
-
 <iframe width="727" height="409" src="https://www.youtube.com/embed/zLfq-wvAdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h1> </h1>
 The overhead camera records each test, and you can watch the stream in realtime on [Twitch](https://dashboard.twitch.tv/u/autonomousdronedevelopers).
 
-<h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies tab. </h2>
-
-
-{% include gallery id="gallery_gpu" caption="See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE)" %}
-
-See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/).
+<h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. </h2>
 
 See [an intro to the crazyflie drone ](https://autonomousdronedevelopers.github.io/infrastructure/flying-the-crazyflie/).
 
+See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/).
+
+<h2>Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies tab. </h2>
+
+{% include gallery id="gallery_gpu" caption="See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE)" %}
+
+
+
+
+
+<h2>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h2>
+
 {% include gallery id="gallery_net" caption="See [an introduction to Optitrack motion capture](https://autonomousdronedevelopers.github.io/infrastructure/optitrack/)." %}
 
-<h1>Resources (under development).</h1>
-<h2>The platform is in beta stage and we welcome anyone interested in using it.</h2>
 
-<h2>Software.</h2>
-
-<h2>We are exploring technologies for various projects.</h2>
-
-{% include gallery id="gallery_software" layout="fourth" class="full" caption="" %}
-
-<h2>Hardware.</h2>
-
-<h2>We have equipment for drone conception, maintenance and other development.</h2>
-
-{% include gallery id="gallery_hardware" layout="fourth" class="full" caption="" %}
-
-<h2>An interface.</h2>
-
-<h2>We are currently developing virtual-to-real infrastructure to visualise robots in their environment.</h2>
-
-<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{% include gallery id="gallery_interface" layout="fourth" class="full" caption="" %}
 
 <!--SOFTWARE STACK -->
 <!--

@@ -106,6 +106,13 @@ gallery_collab:
     image_path: /assets/images/performance/collaborate.PNG
     alt: "optitrack"
     title: "optitrack"
+
+gallery_functionalities:
+
+  - url: https://autonomousdronedevelopers.github.io/arena/stages-illustrated
+    image_path: /assets/images/frontpage/arena/functionalities.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 ---
 
 # Current work done on Arena
@@ -142,6 +149,32 @@ image_path="assets/images/frontpage/robots-idea.PNG"
 alt="dev-tutorials"
 caption=" "
 %}-->
+
+<h1>Resources (under development).</h1>
+<h2>The platform is in beta stage and we welcome anyone interested in using it.</h2>
+
+{% include gallery id="gallery_functionalities" layout="fourth" class="full" caption="" %}
+
+
+<h2>Software.</h2>
+
+<h2>We are exploring technologies for various projects.</h2>
+
+{% include gallery id="gallery_software" layout="fourth" class="full" caption="" %}
+
+<h2>Hardware.</h2>
+
+<h2>We have equipment for drone conception, maintenance and other development.</h2>
+
+{% include gallery id="gallery_hardware" layout="fourth" class="full" caption="" %}
+
+<h2>An interface.</h2>
+
+<h2>We are currently developing virtual-to-real infrastructure to visualise robots in their environment.</h2>
+
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include gallery id="gallery_interface" layout="fourth" class="full" caption="" %}
 
 
 Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).

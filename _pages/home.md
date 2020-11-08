@@ -120,6 +120,15 @@ gallery_gpu:
     image_path: /assets/images/frontpage/arena/arena3.jpg
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
+
+
+
+gallery_theory:
+
+  - url: https://autonomousdronedevelopers.github.io/arena/stages-illustrated
+    image_path: /assets/images/frontpage/arena/stages-illustrated.PNG
+    alt: "Custom line-sensors"
+    title: "Custom line-sensors"
 ---
 
 
@@ -132,6 +141,8 @@ gallery_gpu:
 <iframe width="727" height="409" src="https://www.youtube.com/embed/d1gjkAIj0SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h1> </h1>
 <h1>The platform is in beta stage and we welcome anyone interested in using it.</h1>
+
+{% include gallery id="gallery_theory" caption="There are three main stages in robot development. Our platform operates on all three levels." %}
 
 <h2>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h2>
 

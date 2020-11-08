@@ -118,6 +118,9 @@ The Drone Arena is currently used in three separate domains:
 All the teams use the platform to test their projects.
 For this purpose, multiple tools are currently being developed.
 
+{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}
+
+
 <h2>Some Optitrack companion tools to gain in efficiency.</h2>
 {% include gallery id="gallery_efficient" layout="fourth" class="full" caption="" %}
 <!--
@@ -139,7 +142,7 @@ image_path="assets/images/frontpage/robots-idea.PNG"
 alt="dev-tutorials"
 caption=" "
 %}-->
-{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}
+
 
 Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).
 

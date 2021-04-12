@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Crazyswarm framework for synchronised flight"
-excerpt: "ROS for System Integration: a (more) versatile work environment.."
+title: "Software tools for robotic development"
+excerpt: "Tools to set up a simple network for the drones"
 image:
   header: /assets/images/infrastructure/crazyswarm.jpg
   teaser: /assets/images/infrastructure/crazyswarm.jpg

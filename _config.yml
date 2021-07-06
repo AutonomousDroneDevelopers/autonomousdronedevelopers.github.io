@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" #default" # "air", "aqua", "contrast", "da
 logo                     : "/assets/images/favicon.ico" #logo: "/assets/images/88x88.png"
 # Site Settings
 locale                   : "en-US"
-title                    : "DVIC Drone Lab"
+title                    : "Intelligent Flight Lab"
 #masthead_title           : "Thomas"
 title_separator          : "&#124;"
-name                     : &name "DVIC Drone Lab"
+name                     : &name "Intelligent Flight Lab"
 description              : &description "Drone developers based in Paris" #> # this means to ignore newlines until "baseurl:"
 url                      : https://autonomousdronedevelopers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/drone-agents.jpg"
-  bio              : "Drones at the De Vinci Innovation Center."
+  bio              : "Developing intelligent functionality for robotic systems."
   location         : #"Based in Paris"
   email            : #"thomaxarstens@gmail.com"
   uri              : #"https://thomascarstens.github.io"

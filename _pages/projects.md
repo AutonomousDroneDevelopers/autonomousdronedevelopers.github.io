@@ -6,7 +6,7 @@ collection: projects
 entries_layout: grid
 
 header:
-  overlay_image: /assets/images/backgrounds/paris-skyline.jpg
+  overlay_image: /assets/images/backgrounds/paris-skyline.png
 
 gallery_remote:
   - url: https://autonomousdronedevelopers.github.io/algorithms/behaviour-planning/
@@ -197,7 +197,7 @@ gallery_interface:
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
 
-    - url: https://autonomousdronedevelopers.github.io/algorithms/drone-control-architecture/
+  - url: https://autonomousdronedevelopers.github.io/algorithms/drone-control-architecture/
     image_path: /assets/images/frontpage/interface/5.PNG
     alt: "Custom line-sensors"
     title: "Custom line-sensors"
@@ -208,67 +208,46 @@ gallery_interface:
     title: "Custom line-sensors"
 ---
 
-# Current work done on Arena
-
-The Drone Arena is currently used in three separate domains:
+The Intelligent Flight Lab works on developing - and demonstrating - smart behaviours onboard drones.
+This calls for skills in: 
 - Drone Development
 - Augmented Reality
-- Drone Swarming
+- Configuring Drone Swarms
+- And more.
 
 All the teams use the platform to test their projects.
-For this purpose, multiple tools are currently being developed.
+For this purpose, multiple tools have been developed.
 
 <!--{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}-->
 {% include gallery id="gallery_functionalities" layout="fourth" class="full" caption="" %}
 
-<h2>Some Optitrack companion tools to gain in efficiency.</h2>
-{% include gallery id="gallery_efficient" layout="fourth" class="full" caption="" %}
-<!--
-{%
-include figure
-image_path="assets/images/frontpage/remotely-idea.PNG"
-alt="dev-tutorials"
-caption=" "
-%}
--->
+<h1>Project Demonstrations</h1>
 
-<h2></h2>
-<h2>Developing robots from your home PC.</h2>
-{% include gallery id="gallery_remote" layout="fourth" class="full" caption="" %}
-<!--
-{%
-include figure
-image_path="assets/images/frontpage/robots-idea.PNG"
-alt="dev-tutorials"
-caption=" "
-%}-->
+<h3>REACTIVE WITH A 26MS CONTROL LOOP</h3>
+<!-- <h3>The drones are then launched from the local GPU. Infrared cameras are used to detect exact drone position.</h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/2UsXnnARfos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h1>Resources (under development).</h1>
-<h2>The platform is in beta stage and we welcome anyone interested in using it.</h2>
+<h3>HIGHLY PRECISE FLIGHT IN ROBOT ARENA</h3>
+<!-- <h3>The drones are then launched from the local GPU. Infrared cameras are used to detect exact drone position.</h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/fL43cDrySBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>INDOOR FLIGHT</h3>
+<!-- <h3>The drones can be launched from a companion computer. Drones can calculate their position using an optic flow deck. </h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tdrO143g21E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>DESIGNING CUSTOM TRAJECTORIES</h3>
+<!-- <h3>The drone can follow trajectories. Trajectories can be both pre-programmed and streamed.</h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/aeuI5ycFWts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>ADD YOUR OWN INPUTS FOR DRONE FLIGHT</h3>
+<!-- <h3>Previous projects have used hand control and even an OpenBCI Brain Interface for piloting the drone.</h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tdrO143g21E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-<h2>Software.</h2>
-
-<h2>We are exploring technologies for various projects.</h2>
-
-{% include gallery id="gallery_software" layout="fourth" class="full" caption="" %}
-
-<h2>Hardware.</h2>
-
-<h2>We have equipment for drone conception, maintenance and other development.</h2>
-
-{% include gallery id="gallery_hardware" layout="fourth" class="full" caption="" %}
-
-<h2>An interface.</h2>
-
-<h2>We are currently developing virtual-to-real infrastructure to visualise robots in their environment.</h2>
-
-<iframe width="727" height="409" src="https://www.youtube.com/embed/tNqYDqC6wo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{% include gallery id="gallery_interface" layout="fourth" class="full" caption="" %}
+<h3>DRONE REACTIONS TO A VIRTUAL ENVIRONMENT</h3>
+<!-- <h3>A mixed reality interface has been integrated into the local GPU.</h3> -->
+<iframe width="727" height="409" src="https://www.youtube.com/embed/R65wf4Xhlqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Note: Some of the latest work on the platform is still to be transfered here from Thomas Carstens's profile at the DVIC. [here](https://dvic.devinci.fr/resource/members/thomas_carstens/).
-
-<h2>Some projects that have used these tutorials.</h2>

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "Drones at the DVIC"
+title: "Intelligent Flight Lab"
 header:
   overlay_image: /assets/images/backgrounds/paris-skyline.jpg
 #classes: wide
@@ -146,44 +146,53 @@ gallery_functionalities:
 ---
 
 
-<h2>Official site of the DVIC Drone Lab.</h2>
+<h1>Official site of the Intelligent Flight Lab.</h1>
 
-<h1>We are an upcoming tech lab at La Defense, Paris. </h1>
+<iframe width="727" height="409" src="https://www.youtube.com/embed/gWMxoGTkIYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>The DVIC Drone Lab operates at a Fablab in the De Vinci Innovation Center. We develop drones and robotic systems. We have a drone arena which we use for experimentation and testing.</h2>
 
-<iframe width="727" height="409" src="https://www.youtube.com/embed/d1gjkAIj0SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h1> </h1>
-<h1>The platform is in beta stage and we welcome anyone interested in using it.</h1>
 
+<h2>The Intelligent Flight Lab develops intelligent functionality for robotic systems. We operate in the De Vinci Innovation Center (Paris, France).</h2>
+
+<!-- {% include gallery id="gallery_gpu" caption="" %} -->
+<!-- See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE) -->
+
+
+<!-- SPACE FOR DEVELOPMENT: WE ARE ACCEPTING NEW PROJECTS -->
 {% include gallery id="gallery_platform" caption="" %}
 
+<h2> The platform has been used to bring various projects to life: see the Projects tab!
+We are currently accepting new projects for September 2021.</h2>
+
+
+
+<!-- PROJECTS PAGE.
 <h1>There are three main stages in robot development. Our platform operates on all three levels.</h1>
 
-{% include gallery id="gallery_theory" caption="" %}
+{% include gallery id="gallery_theory" caption="" %} -->
 
-<iframe width="727" height="409" src="https://www.youtube.com/embed/zLfq-wvAdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h1> </h1>
-The overhead camera records each test, and you can watch the stream in realtime on [Twitch](https://dashboard.twitch.tv/u/autonomousdronedevelopers).
+<!-- <iframe width="727" height="409" src="https://www.youtube.com/embed/gWMxoGTkIYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1> </h1> -->
 
-<h2>Drones are localized and flown end-to-end from Python and C++ code. In the tradition of robotics research laboratories, infrared cameras are used to detect exact drone position. These cameras are integrated into the Crazyswarm control framework from the University of Southern California. </h2>
-
+<!-- 
+ALSO SIMULATION PROJECTS: rdJYIxeUt-o
+<iframe width="727" height="409" src="https://www.youtube.com/embed/tdrO143g21E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 See [an intro to the crazyflie drone ](https://autonomousdronedevelopers.github.io/infrastructure/flying-the-crazyflie/).
+See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/). 
+-->
 
-See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/).
+<h1>Will the drone work for our project?</h1>
+<h3>> See Technologies Tab </h3>
 
-<h2>Using this infrastructure, Crazyflie drones receive commands from our local GPU. Models can be trained and tested from the lab GPU. You can find more details on all these technologies under the Technologies tab. </h2>
+<h3> </h3>
 
-{% include gallery id="gallery_gpu" caption="See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE)" %}
+<h1>What has been done before?</h1>
+<h3>> See Projects Tab </h3>
+<!-- <h1>How does it work?</h1>
+<h3>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h3> -->
 
 
-
-
-
-<h2>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h2>
-
-{% include gallery id="gallery_net" caption="See [an introduction to Optitrack motion capture](https://autonomousdronedevelopers.github.io/infrastructure/optitrack/)." %}
-
+<!-- See [an introduction to Optitrack motion capture](https://autonomousdronedevelopers.github.io/infrastructure/optitrack/). -->
 
 
 <!--SOFTWARE STACK -->

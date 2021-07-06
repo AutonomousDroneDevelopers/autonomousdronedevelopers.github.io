@@ -181,10 +181,6 @@ See [an intro to the crazyflie drone ](https://autonomousdronedevelopers.github.
 See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/). 
 -->
 
-<h1>Will the drone work for our project?</h1>
-<h3>> See Technologies Tab </h3>
-
-<h3> </h3>
 
 <h1>What has been done before?</h1>
 <h3>> See Projects Tab </h3>

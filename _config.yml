@@ -21,7 +21,7 @@ title                    : "Intelligent Flight Lab"
 #masthead_title           : "Thomas"
 title_separator          : "&#124;"
 name                     : &name "Intelligent Flight Lab"
-description              : &description "Drone developers based in Paris" #> # this means to ignore newlines until "baseurl:"
+description              : &description "📌 Paris, France" #> # this means to ignore newlines until "baseurl:"
 url                      : https://autonomousdronedevelopers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "autonomousdronedevelopers/autonomousdronedevelopers.github.io"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ThomasCarstens"
+  github           : "leonard-de-vinci"
 #  gitlab           : "ThomasCarstens"
 #  google_plus      :
 #  googlescholar    : "7YzW4ZUAAAAJ&hl=en"

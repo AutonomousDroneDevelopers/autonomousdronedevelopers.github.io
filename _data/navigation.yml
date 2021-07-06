@@ -11,8 +11,8 @@ main:
   #  url: /portfolio/
   #- title: "CV"
   #  url: /cv/
-  - title: "Technologies"
-    url: /skills/
+  #- title: "Technologies"
+  #  url: /skills/
   - title: "Projects"
     url: /projects/
   - title: "Contact"

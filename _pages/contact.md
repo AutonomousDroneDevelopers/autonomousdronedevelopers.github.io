@@ -123,12 +123,22 @@ gallery_gpu:
 
 
 
-gallery_theory:
+gallery_members:
 
-  - url: https://autonomousdronedevelopers.github.io/arena/stages-illustrated
-    image_path: /assets/images/frontpage/arena/stages-illustrated.PNG
-    alt: "Custom line-sensors"
-    title: "Custom line-sensors"
+  - url: https://fr.linkedin.com/in/thomas-carstens-31632468
+    image_path: /assets/images/professional-txa.jpeg
+    alt: "Thomas Carstens"
+    title: "Thomas Carstens"
+
+  - url: https://www.linkedin.com/in/b%C3%A9r%C3%A9nice-dufaure-265183183/
+    image_path: /assets/images/professional-bubulle.jpeg
+    alt: "Berenice Dufaure"
+    title: "Berenice Dufaure"
+
+  - url: https://www.linkedin.com/in/nicolas-stas/
+    image_path: /assets/images/professional-nico.jpeg
+    alt: "Nicolas Stas"
+    title: "Nicolas Stas"
 
 gallery_platform:
 
@@ -147,3 +157,8 @@ gallery_functionalities:
 
 
 <h1>Official site of the Intelligent Flight Lab.</h1>
+
+<h2>Email: intelligent.flight.laboratory@gmail.com</h2>
+<h2>Linkedin: </h2>
+
+{% include gallery id="gallery_members" caption="Click the pictures to access each Linkedin" %}

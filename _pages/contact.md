@@ -123,20 +123,42 @@ gallery_gpu:
 
 
 
-gallery_members:
+gallery_members_1:
 
   - url: https://fr.linkedin.com/in/thomas-carstens-31632468
-    image_path: /assets/images/professional-txa.jpeg
+    image_path: /assets/images/professional-txa.png
     alt: "Thomas Carstens"
     title: "Thomas Carstens"
 
+  - url: https://www.linkedin.com/in/nicolas-stas/
+    image_path: /assets/images/professional-nico.png
+    alt: "Nicolas Stas"
+    title: "Nicolas Stas"
+
+  - image_path: /assets/images/transparent.jpg
+
   - url: https://www.linkedin.com/in/b%C3%A9r%C3%A9nice-dufaure-265183183/
-    image_path: /assets/images/professional-bubulle.jpeg
+    image_path: /assets/images/professional-bubulle.png
     alt: "Berenice Dufaure"
     title: "Berenice Dufaure"
 
-  - url: https://www.linkedin.com/in/nicolas-stas/
-    image_path: /assets/images/professional-nico.jpeg
+#   - url: https://www.linkedin.com/in/adem-rahal-372960209/
+#     image_path: /assets/images/professional-adem.png
+#     alt: "Nicolas Stas"
+#     title: "Nicolas Stas"    
+  - image_path: /assets/images/transparent.jpg 
+
+  - image_path: /assets/images/transparent.jpg 
+
+gallery_members_2:
+
+  - url: https://www.linkedin.com/in/b%C3%A9r%C3%A9nice-dufaure-265183183/
+    image_path: /assets/images/professional-bubulle.png
+    alt: "Berenice Dufaure"
+    title: "Berenice Dufaure"
+
+  - url: https://www.linkedin.com/in/adem-rahal-372960209/
+    image_path: /assets/images/professional-adem.png
     alt: "Nicolas Stas"
     title: "Nicolas Stas"
 
@@ -158,7 +180,11 @@ gallery_functionalities:
 
 <h1>Official site of the Intelligent Flight Lab.</h1>
 
-<h2>Email: intelligent.flight.laboratory@gmail.com</h2>
-<h2>Linkedin: </h2>
+<h2>📧 intelligent.flight.laboratory@gmail.com</h2>
 
-{% include gallery id="gallery_members" caption="Click the pictures to access each Linkedin" %}
+<!-- <h2>Current director: </h2>
+{% include gallery id="gallery_members_2" caption="Images linked to each Linkedin." %} -->
+
+<h2>2021 Coordinating team: </h2>
+{% include gallery id="gallery_members_1" border-radius="30%" caption="Click for each Linkedin." %}
+<!-- {% include gallery id="gallery_members_2" border-radius="30%" caption="Click the pictures to access each Linkedin" %} -->

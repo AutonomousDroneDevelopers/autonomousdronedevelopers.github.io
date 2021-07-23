@@ -1,9 +1,7 @@
 ---
-title: Explore
-layout: collection
+title: Project Demonstrations
+layout: archive
 permalink: /projects/
-collection: projects
-entries_layout: grid
 
 header:
   overlay_image: /assets/images/backgrounds/paris-skyline.png
@@ -219,7 +217,7 @@ All the teams use the platform to test their projects.
 For this purpose, multiple tools have been developed.
 
 <!--{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}-->
-{% include gallery id="gallery_functionalities" layout="fourth" class="full" caption="" %}
+<!-- {% include gallery id="gallery_functionalities" layout="fourth" class="full" caption="" %} -->
 
 <h1>Project Demonstrations</h1>
 

@@ -206,15 +206,17 @@ gallery_interface:
     title: "Custom line-sensors"
 ---
 
-The Intelligent Flight Lab works on developing - and demonstrating - smart behaviours onboard drones.
-This calls for skills in: 
-- Drone Development
-- Augmented Reality
-- Configuring Drone Swarms
-- And more.
+The Intelligent Flight Lab works with UAVs and swarms of UAVs. 
+We develop, and demonstrate, smart behaviours onboard UAVs.
 
-All the teams use the platform to test their projects.
 For this purpose, multiple tools have been developed.
+> Virtual environments (Unity3D) to test and improve our autonomy software.
+> External motion capture which we adapted to inject real items into Unity3D in real-time.
+> A custom-made monitoring solution for real drones to react to the virtual environment.
+> Our custom flight arena to perform real-life demonstrations of our progress.
+> A custom-made monitoring solution for a real drone fleet to fly reliably during choreographies.
+
+
 
 <!--{% include gallery id="gallery_collab" layout="fourth" class="full" caption="" %}-->
 <!-- {% include gallery id="gallery_functionalities" layout="fourth" class="full" caption="" %} -->

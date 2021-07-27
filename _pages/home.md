@@ -154,6 +154,8 @@ gallery_functionalities:
 
 <h2>The Intelligent Flight Lab develops intelligent functionality for robotic systems. We operate in the De Vinci Innovation Center (Paris, France).</h2>
 
+- Providing our demoes online and in real life, as well as meeting with prospective collaborators.
+- Developing with the help of our workspace (simulators, validation testing, etc).
 <!-- {% include gallery id="gallery_gpu" caption="" %} -->
 <!-- See [GPU specs](https://fr.msi.com/All-in-One-PC/Gaming-24GE-2QE) -->
 
@@ -181,9 +183,6 @@ See [an intro to the crazyflie drone ](https://autonomousdronedevelopers.github.
 See [an introduction to the crazyswarm framework](https://autonomousdronedevelopers.github.io/infrastructure/crazyswarm-synchronisation/). 
 -->
 
-
-<h1>What has been done before?</h1>
-<h3>> See Projects Tab </h3>
 <!-- <h1>How does it work?</h1>
 <h3>Our robots are localized with sub-millimetre level precision. To achieve this, the drone arena is fitted with a system of infrared cameras. The drone can be flown according to this information and executes figures in a tight latency loop of 28 ms. </h3> -->
 
